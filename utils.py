@@ -19,6 +19,11 @@ import matplotlib.pyplot as plt
 from torchvision.ops import box_convert
 import utils
 import data.utils as data_utils
+from tqdm import tqdm
+
+import pandas as pd
+import os
+import time
 
 HOME="/home/jix049/private/"
 
@@ -406,7 +411,7 @@ def visualize_saliency_box_alignment(image, saliency_map, boxes, concept):
     plt.tight_layout()
     plt.show()
 
-def show_neurons(model, grounding_model, concepts, target_neurons, activation_save_path, dataset, dataset_pil, box_t=0.35, text_t=0.25, num_show=10, batch_size=128, target_layer='proj_layer', device='cuda'):
+def compute_alignment_score(model, grounding_model, concepts, target_neurons, dataset, dataset_pil, box_t=0.35, text_t=0.25, num_top=28, batch_size=128, show=False, save=True, device='cuda'):
     """
     show spatial alignment for target_neurons in a model
     
@@ -416,17 +421,31 @@ def show_neurons(model, grounding_model, concepts, target_neurons, activation_sa
         target_neurons (list) : neurons you want to examinate
         save_path
     """
-    all_activations = utils.save_summary_activations(model, dataset, device, target_layer, batch_size, activation_save_path, pool_mode="avg")
-    ratio=[]
-    for target_neuron in target_neurons:
-        summary_activations = all_activations[:, target_neuron]
-        sorted_act_vals, sorted_act_ids = torch.sort(summary_activations, descending=True)
-        to_show = sorted_act_ids[:num_show]
-        
+    concepts_value = []
+    data_loader = torch.utils.data.DataLoader(
+        dataset,
+        batch_size=batch_size,
+        shuffle=False,  # Keep original order
+        num_workers=4    # Adjust based on your system
+    )
+    model.to(device)
+    with torch.no_grad():
+        for batch_idx, (x, y) in enumerate(data_loader):
+            x = x.to(device)
+            # Process entire batch at once
+            concept = model(x)
+            concepts_value.append(concept)
+    concepts_value = torch.cat(concepts_value)
+    _, top_activated_images = concepts_value.topk(k=num_top, dim=0) # shape [k, out_features]
+    
+    results_list=[]
+    for target_neuron in tqdm(target_neurons):
+        to_show = top_activated_images[:, target_neuron]
+        neuron_results=[]
         # Evaluate alignment
         for image_id in to_show:
-            print(f"image:{image_id}")
-            concept=data_utils.format_concept(concepts[target_neuron], mode="remove")
+                
+            concept=data_utils.format_concept(concepts[target_neuron])
             TEXT_PROMPT = f"bird . {concept}" # possible improvement: use class names
             BOX_TRESHOLD = box_t
             TEXT_TRESHOLD = text_t
@@ -458,12 +477,57 @@ def show_neurons(model, grounding_model, concepts, target_neurons, activation_sa
             boxes_transformed = transform_boxes(boxes, (image_transformed.shape[1],image_transformed.shape[2]))
             
             result, saliency_map = evaluate_concept_saliency_alignment(model, image, boxes_transformed, target_neuron)
-            if saliency_map is not None:
-                visualize_saliency_box_alignment(image, saliency_map, boxes_transformed, concept)
-            else:
-                display(f"{concept} not found!")
-                display(dataset_pil[image_id][0])
-            ratio.append(result["saliency_ratio"])
-            formatted_result = {k: f"{v:.4f}" for k, v in result.items()}
-            display(formatted_result)
-        return ratio
+            if show:
+                print(f"image:{image_id}")
+                if saliency_map is not None:
+                    visualize_saliency_box_alignment(image, saliency_map, boxes_transformed, concept)
+                else:
+                    display(f"{concept} not found!")
+                    display(dataset_pil[image_id][0])
+                formatted_result = {k: f"{v:.4f}" for k, v in result.items()}
+                display(formatted_result)
+            neuron_results.append(result)
+        
+        avg_result = {
+        'iou': np.mean([r['iou'] for r in neuron_results]),
+        'saliency_ratio': np.mean([r['saliency_ratio'] for r in neuron_results]),
+        'saliency_capture': np.mean([r['saliency_capture'] for r in neuron_results])
+        }
+        results_list.append(avg_result)
+    if save:
+        save_results(target_neurons, concepts, results_list)
+    return results_list
+# save result to csv
+def save_results(target_neurons, concepts, results_list):
+    """
+    Save faithfulness evaluation results to a CSV file.
+    
+    Args:
+        target_neurons (list): List of neuron indices
+        concepts (list): List of concepts corresponding to neurons
+        results_list (list): List of dictionaries containing evaluation results
+    """
+    # Create results data structure
+    records = []
+    
+    for neuron, result in zip(target_neurons, results_list):
+        record = {
+            'target_neuron': neuron,
+            'concept': data_utils.format_concept(concepts[neuron]),
+            'iou': result['iou'],
+            'saliency_ratio': result['saliency_ratio'],
+            'saliency_capture': result['saliency_capture']
+        }
+        records.append(record)
+    
+    # Convert to DataFrame
+    df = pd.DataFrame(records)
+    
+    # Create output directory if it doesn't exist
+    os.makedirs('outputs', exist_ok=True)
+    
+    # Save to CSV
+    output_path = f'outputs/Rename_{time.strftime("%m%d_%H%M")}_faithfulness.csv'
+    df.to_csv(output_path, index=False)
+    print(f"Results saved to {output_path}")
+
