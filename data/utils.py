@@ -13,7 +13,7 @@ import clip
 from PIL import Image
 
 # get from the environment variable
-DATASET_FOLDER = os.environ.get("DATASET_FOLDER", "datasets")
+DATASET_FOLDER = os.environ.get("DATASET_FOLDER", "~/private/VLG-CBM/datasets")
 
 DATASET_ROOTS = {
     "imagenet_train": f"{DATASET_FOLDER}/imagenet/ILSVRC/Data/CLS-LOC/train",

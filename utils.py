@@ -4,6 +4,10 @@ from groundingdino.util.slconfig import SLConfig
 from groundingdino.util.utils import clean_state_dict
 from groundingdino.util.inference import load_model, load_image, predict, annotate
 
+from pytorch_grad_cam import GradCAMPlusPlus
+from pytorch_grad_cam.utils.model_targets import ClassifierOutputTarget
+from pytorch_grad_cam.utils.image import show_cam_on_image
+
 from torchvision import transforms
 from loguru import logger
 from PIL import Image
@@ -18,7 +22,7 @@ import data.utils as data_utils
 
 HOME="/home/jix049/private/"
 
-def compute_saliency_map(model, x, target_neuron, requires_grad=True):
+def compute_saliency_map(model, x, target_neuron, requires_grad=True, mode="GradCAM++"):
     """
     Compute saliency map for a specific neuron in proj_layer for a single input image.
     
@@ -31,39 +35,54 @@ def compute_saliency_map(model, x, target_neuron, requires_grad=True):
     Returns:
         numpy.ndarray: Saliency map for the specified neuron
     """
-    # Ensure the model is in eval mode
-    model.eval()
-    
-    # Create a copy of the input that requires gradient
-    if requires_grad:
-        x = x.clone().detach().requires_grad_(True)
-    
-    # Add batch dimension
-    x_batch = x.unsqueeze(0)  # Shape becomes [1, channels, height, width]
-    
-    # Forward pass through backbone and proj_layer
-    features = model.backbone(x_batch)
-    # flatten not needed for VLG_CBM, but is needed for LF_CBM
-    features_flat = torch.flatten(features, 1)
-    proj_output = model.proj_layer(features_flat)
-    
-    # Get the output for the specified neuron
-    neuron_output = proj_output[0, target_neuron]  # Take first (only) element since we have batch size 1
-    
-    # Compute gradients
-    neuron_output.backward()
-    
-    # Get gradients with respect to input
-    gradients = x.grad.detach()
-    
-    # Compute saliency map (take absolute value and max across channels)
-    saliency_map = torch.max(torch.abs(gradients), dim=0)[0]
-    
-    # Convert to numpy and normalize to [0, 1]
-    saliency_map = saliency_map.cpu().numpy()
-    saliency_map = (saliency_map - saliency_map.min()) / (saliency_map.max() - saliency_map.min() + 1e-8)
-    
-    return saliency_map
+    if mode == "GradCAM++":
+        target_layer = [model[0].backbone.features.stage4.unit2.body.conv2.conv] # hardcoded for CUB-VLG-CBM
+        cam = GradCAMPlusPlus(
+            model=model,
+            target_layers=target_layer,
+        )
+        targets = [ClassifierOutputTarget(target_neuron)]
+        # For a single image
+        if x.dim() == 3:
+            x_4d = x.unsqueeze(0)
+        # Make sure image is on the same device as the model
+        grayscale_cam = cam(input_tensor=x_4d, targets=targets)
+        grayscale_cam = grayscale_cam[0, :]
+        return grayscale_cam
+    if mode == "gradient":
+        # Ensure the model is in eval mode
+        model.eval()
+        
+        # Create a copy of the input that requires gradient
+        if requires_grad:
+            x = x.clone().detach().requires_grad_(True)
+        
+        # Add batch dimension
+        x_batch = x.unsqueeze(0)  # Shape becomes [1, channels, height, width]
+        
+        # Forward pass through backbone and proj_layer
+        features = model.backbone(x_batch)
+        # flatten not needed for VLG_CBM, but is needed for LF_CBM
+        features_flat = torch.flatten(features, 1)
+        proj_output = model.proj_layer(features_flat)
+        
+        # Get the output for the specified neuron
+        neuron_output = proj_output[0, target_neuron]  # Take first (only) element since we have batch size 1
+        
+        # Compute gradients
+        neuron_output.backward()
+        
+        # Get gradients with respect to input
+        gradients = x.grad.detach()
+        
+        # Compute saliency map (take absolute value and max across channels)
+        saliency_map = torch.max(torch.abs(gradients), dim=0)[0]
+        
+        # Convert to numpy and normalize to [0, 1]
+        saliency_map = saliency_map.cpu().numpy()
+        saliency_map = (saliency_map - saliency_map.min()) / (saliency_map.max() - saliency_map.min() + 1e-8)
+        
+        return saliency_map
 
 def visualize_saliency_map(model, x, target_neuron, normalize_input=True):
     """
@@ -96,7 +115,6 @@ def visualize_saliency_map(model, x, target_neuron, normalize_input=True):
     
     # Plot saliency map
     saliency_plot = ax2.imshow(saliency_map, cmap='hot')
-    ax2.set_title(f'Saliency Map (Neuron {target_neuron}:{concepts[target_neuron]})')
     ax2.axis('off')
     
     # Add colorbar
