@@ -1,0 +1,4795 @@
+Black footed Albatross
+bill color: black bill
+bill shape: hooked seabird bill; long thick bill
+eye color: dark brown eyes
+head color: dark brown head
+head feature: white face
+wing color: dark brown wings
+wing shape: long narrow wings
+wing feature: N/A
+body color: dark brown body
+back color: dark brown back
+back feature: N/A
+breast color: dark brown breast
+breast feature: N/A
+belly color: dark brown belly
+belly feature: N/A
+leg color: black legs
+leg feature: N/A
+feet color: black feet
+feet feature: webbed feet
+tail color: dark brown tail
+tail shape: short tail
+tail feature: N/A
+
+Laysan Albatross
+bill color: pink bill
+bill shape: hooked seabird bill; long thick bill
+eye color: dark brown eyes
+head color: white head
+head feature: dark eye patch
+wing color: dark gray wings
+wing shape: long narrow wings
+wing feature: N/A
+body color: white body
+back color: dark gray back
+back feature: N/A
+breast color: white breast
+breast feature: N/A
+belly color: white belly
+belly feature: N/A
+leg color: pale pink legs
+leg feature: N/A
+feet color: pale pink feet
+feet feature: webbed feet
+tail color: dark gray tail
+tail shape: short tail
+tail feature: N/A
+
+Sooty Albatross  
+bill color: black bill  
+bill shape: hooked seabird bill; long slender bill  
+eye color: dark brown eyes  
+head color: dark brown head  
+head feature: white eye-ring  
+wing color: dark brown wings  
+wing shape: long narrow wings  
+wing feature: N/A  
+body color: dark brown body  
+back color: dark brown back  
+back feature: N/A  
+breast color: dark brown breast  
+breast feature: N/A  
+belly color: dark brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: dark brown tail  
+tail shape: long wedge-shaped tail  
+tail feature: N/A  
+
+Groove-billed Ani  
+bill color: black bill  
+bill shape: thick curved bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: grooves on the bill
+wing color: black wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: black body  
+back color: black back  
+back feature: N/A  
+breast color: black breast  
+breast feature: N/A  
+belly color: black belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: long graduated tail  
+tail feature: N/A  
+
+Crested Auklet
+bill color: orange bill  
+bill shape: short thick bill
+eye color: white eyes
+head color: dark gray head  
+head feature: curled forehead crest; white facial whiskers
+wing color: dark gray wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: dark gray body  
+back color: dark gray back  
+back feature: N/A  
+breast color: dark gray breast  
+breast feature: N/A  
+belly color: dark gray belly  
+belly feature: N/A  
+leg color: pale gray legs  
+leg feature: N/A  
+feet color: pale gray feet  
+feet feature: webbed feet  
+tail color: dark gray tail  
+tail shape: short tail  
+tail feature: N/A
+
+Least Auklet  
+bill color: orange bill  
+bill shape: short thick bill  
+eye color: white eyes  
+head color: dark gray head  
+head feature: white facial speckles  
+wing color: dark gray wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: dark gray body  
+back color: dark gray back  
+back feature: N/A  
+breast color: dark gray breast  
+breast feature: N/A  
+belly color: dark gray belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: webbed feet  
+tail color: dark gray tail  
+tail shape: short tail  
+tail feature: N/A
+
+Parakeet Auklet  
+bill color: orange bill  
+bill shape: short thick curved bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: white curved eye streak  
+wing color: black wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: black body  
+back color: black back  
+back feature: N/A  
+breast color: black breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: pale gray legs  
+leg feature: N/A  
+feet color: pale gray feet  
+feet feature: webbed feet  
+tail color: black tail  
+tail shape: short tail  
+tail feature: N/A
+
+Rhinoceros Auklet
+bill color: orange bill  
+bill shape: thick deep bill; downward curve bill
+eye color: dark brown eyes  
+head color: dark gray head  
+head feature: white facial plumes; small horn at bill base  
+wing color: dark gray wings  
+wing shape: short pointed wings  
+wing feature: N/A  
+body color: dark gray body  
+back color: dark gray back  
+back feature: N/A  
+breast color: dark gray breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: pale gray legs  
+leg feature: N/A  
+feet color: pale gray feet  
+feet feature: webbed feet  
+tail color: dark gray tail  
+tail shape: short rounded tail  
+tail feature: N/A
+
+Brewer Blackbird
+bill color: black bill
+bill shape: short pointed bill
+eye color: bright yellow eyes; dark brown eyes
+head color: black head; brown head
+head feature: blue sheen on the head; 
+wing color: black wings; brown wings
+wing shape: medium rounded wings
+wing feature: N/A
+body color: black body; brown body
+back color: black back; brown back
+back feature: N/A
+breast color: black breast; brown breast
+breast feature: N/A
+belly color: black belly; brown belly
+belly feature: N/A
+leg color: black legs
+leg feature: N/A
+feet color: black feet
+feet feature: N/A
+tail color: black tail; brown tail
+tail shape: medium-length rounded tail
+tail feature: N/A
+
+Red-winged Blackbird  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: black head; brown head  
+head feature: N/A  
+wing color: black wings; brown wings  
+wing shape: medium rounded wings  
+wing feature: red shoulder patch
+body color: black body; brown body  
+back color: black back; brown back  
+back feature: N/A  
+breast color: black breast; brown breast  
+breast feature: N/A  
+belly color: black belly; brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail; brown tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A
+
+Rusty Blackbird  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: pale yellow eyes; dark brown eyes  
+head color: dark brown head; black head  
+head feature: N/A  
+wing color: dark brown wings; black wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: dark brown body; black body; mottled brown and black body
+back color: dark brown back; black back  
+back feature: N/A  
+breast color: dark brown breast; black breast  
+breast feature: N/A  
+belly color: dark brown belly; black belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: dark brown tail; black tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A
+
+Yellow-headed Blackbird  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: bright yellow head  
+head feature: N/A  
+wing color: black wings  
+wing shape: medium rounded wings  
+wing feature: white wing patch  
+body color: black body  
+back color: black back  
+back feature: N/A  
+breast color: bright yellow breast  
+breast feature: N/A  
+belly color: black belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A  
+
+Bobolink
+bill color: pale ivory bill  
+bill shape: short pointed bill
+eye color: dark brown eyes
+head color: black head; brown head  
+head feature: white nape; buff nape
+wing color: black wings; brown wings  
+wing shape: medium pointed wings  
+wing feature: N/A  
+body color: black body; brown body  
+back color: black back; brown back  
+back feature: white lower back
+breast color: black breast; brown breast  
+breast feature: N/A  
+belly color: black belly; brown belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: black tail; brown tail  
+tail shape: short rounded tail  
+tail feature: N/A
+
+Indigo Bunting  
+bill color: grayish conical bill  
+bill shape: short thick bill  
+eye color: dark brown eyes  
+head color: vibrant blue head; brown head  
+head feature: N/A  
+wing color: deep blue wings; brown wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: deep blue body; brown body  
+back color: deep blue back; brown back  
+back feature: N/A  
+breast color: deep blue breast; brown breast  
+breast feature: N/A  
+belly color: deep blue belly; brown belly  
+belly feature: N/A  
+leg color: grayish legs  
+leg feature: N/A  
+feet color: grayish feet  
+feet feature: N/A  
+tail color: deep blue tail; brown tail  
+tail shape: short slightly notched tail  
+tail feature: N/A
+
+Lazuli Bunting  
+bill color: gray bill  
+bill shape: short thick bill; short conical bill
+eye color: dark brown eyes  
+head color: bright blue head; brown-gray head  
+head feature: N/A  
+wing color: brown wings; blue wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: blue body; brown-gray body  
+back color: brown back; blue back  
+back feature: N/A  
+breast color: bright orange breast; pale buff breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: blue tail; brown tail  
+tail shape: medium-length notched tail  
+tail feature: N/A
+
+Painted Bunting  
+bill color: gray bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: bright blue head; greenish-brown head  
+head feature: N/A  
+wing color: green wings; brown wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: multicolored body; greenish-brown body  
+back color: green back; brown back  
+back feature: N/A  
+breast color: red breast; yellow-green breast  
+breast feature: N/A  
+belly color: red belly; yellow-green belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: red tail; brown tail  
+tail shape: short rounded tail  
+tail feature: N/A
+
+Cardinal
+bill color: orange-red bill  
+bill shape: short thick conical bill  
+eye color: dark brown eyes  
+head color: bright red head; warm brown head  
+head feature: prominent crest  
+wing color: bright red wings; warm brown wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: bright red body; warm brown body  
+back color: bright red back; warm brown back  
+back feature: N/A  
+breast color: bright red breast; warm brown breast  
+breast feature: N/A  
+belly color: bright red belly; warm brown belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: bright red tail; warm brown tail  
+tail shape: long rounded tail  
+tail feature: N/A
+
+Spotted Catbird  
+bill color: dark gray bill  
+bill shape: short stout bill  
+eye color: bright red eyes
+head color: green head  
+head feature: black spot below eyes
+wing color: green wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: green body  
+back color: green back  
+back feature: N/A  
+breast color: green breast  
+breast feature: white spotted breast
+belly color: green belly  
+belly feature: white spotted belly
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: green tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A
+
+Gray Catbird  
+bill color: black bill  
+bill shape: short thin bill
+eye color: dark brown eyes  
+head color: dark gray head  
+head feature: N/A  
+wing color: dark gray wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: dark gray body  
+back color: dark gray back  
+back feature: N/A  
+breast color: dark gray breast  
+breast feature: N/A  
+belly color: dark gray belly  
+belly feature: rusty undertail coverts  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: dark gray tail  
+tail shape: long rounded tail  
+tail feature: rusty undertail coverts  
+
+Yellow-breasted Chat  
+bill color: black bill  
+bill shape: short thick bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: white eyebrow stripe  
+wing color: olive-brown wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: yellow and olive body  
+back color: olive-brown back  
+back feature: N/A  
+breast color: bright yellow breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: olive-brown tail  
+tail shape: long rounded tail  
+tail feature: N/A
+
+Eastern Towhee  
+bill color: black bill  
+bill shape: short thick bill  
+eye color: dark red eyes; dark brown eyes  
+head color: black head; brown head  
+head feature: N/A  
+wing color: black wings; brown wings  
+wing shape: medium rounded wings  
+wing feature: white wing spots  
+body color: black and rufous body; brown and rufous body  
+back color: black back; brown back  
+back feature: N/A  
+breast color: black breast; brown breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: black tail; brown tail  
+tail shape: long rounded tail  
+tail feature: white outer tail feathers
+
+Chuck will Widow  
+bill color: black bill  
+bill shape: short wide bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: mottled brown head
+wing color: brown wings  
+wing shape: long rounded wings  
+wing feature: mottled brown wings
+body color: brown body  
+back color: brown back  
+back feature: mottled brown back
+breast color: brown breast  
+breast feature: mottled brown breast
+belly color: brown belly  
+belly feature: mottled brown belly
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: long rounded tail  
+tail feature: white tips on outer tail feathers
+
+Brandt Cormorant  
+bill color: gray bill  
+bill shape: hooked seabird bill; long slender bill  
+eye color: bright blue eyes  
+head color: black head  
+head feature: blue throat
+wing color: black wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: black body  
+back color: black back  
+back feature: N/A  
+breast color: black breast  
+breast feature: N/A  
+belly color: black belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: black tail  
+tail shape: medium length wedge shaped tail  
+tail feature: N/A
+
+Red-faced Cormorant  
+bill color: pale yellow bill  
+bill shape: long hooked bill  
+eye color: dark brown eyes  
+head color: dark green head  
+head feature: bright red facial skin  
+wing color: dark green wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: dark green body  
+back color: dark green back  
+back feature: N/A  
+breast color: dark green breast  
+breast feature: N/A  
+belly color: dark green belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: dark green tail  
+tail shape: short wedge-shaped tail  
+tail feature: N/A
+
+Pelagic Cormorant  
+bill color: black bill  
+bill shape: long slender bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: iridescent green sheen  
+wing color: black wings  
+wing shape: long narrow wings  
+wing feature: N/A  
+body color: black body  
+back color: black back  
+back feature: N/A  
+breast color: black breast  
+breast feature: N/A  
+belly color: black belly  
+belly feature: white flank patches
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: black tail  
+tail shape: long wedge-shaped tail  
+tail feature: N/A
+
+Bronzed Cowbird
+bill color: black bill  
+bill shape: short thick bill  
+eye color: bright red eyes; dark brown eyes  
+head color: black head; brown head  
+head feature: ruff around neck  
+wing color: black wings; brown wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: black body; brown body  
+back color: black back; brown back  
+back feature: N/A  
+breast color: black breast; brown breast  
+breast feature: N/A  
+belly color: black belly; brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail; brown tail  
+tail shape: short slightly rounded tail  
+tail feature: N/A
+
+Shiny Cowbird  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: glossy black head; brown head  
+head feature: N/A  
+wing color: glossy black wings; brown wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: glossy black body; brown body  
+back color: glossy black back; brown back  
+back feature: N/A  
+breast color: glossy black breast; brown breast  
+breast feature: N/A  
+belly color: glossy black belly; brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: glossy black tail; brown tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A
+
+Brown Creeper  
+bill color: thin curved bill  
+bill shape: slender downcurved bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: white eyebrow stripe  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: brown body  
+back color: brown back  
+back feature: streaked back  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: strong gripping feet  
+tail color: brown tail  
+tail shape: long stiff tail  
+tail feature: N/A
+
+American Crow  
+bill color: black bill  
+bill shape: thick straight bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: N/A  
+wing color: black wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: black body  
+back color: black back  
+back feature: N/A  
+breast color: black breast  
+breast feature: N/A  
+belly color: black belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A
+
+Fish Crow  
+bill color: black bill  
+bill shape: medium thick slightly curved bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: N/A  
+wing color: black wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: black body  
+back color: black back  
+back feature: N/A  
+breast color: black breast  
+breast feature: N/A  
+belly color: black belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: medium-length squared tail  
+tail feature: N/A
+
+Black-billed Cuckoo
+bill color: black bill  
+bill shape: long slender bill  
+eye color: dark red eyes  
+head color: brown head  
+head feature: N/A  
+wing color: brown wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: brown body  
+back color: brown back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: zygodactyl feet  
+tail color: brown tail  
+tail shape: long tail  
+tail feature: white spots on underside tail
+
+Mangrove Cuckoo  
+bill color: black bill  
+bill shape: long slightly curved bill  
+eye color: dark brown eyes  
+head color: grayish brown head  
+head feature: black eye-stripe  
+wing color: brown wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: buff body  
+back color: brown back  
+back feature: N/A  
+breast color: buff breast  
+breast feature: N/A  
+belly color: buff belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: zygodactyl feet  
+tail color: black tail  
+tail shape: long graduated tail  
+tail feature: white-tipped tail
+
+Yellow-billed Cuckoo  
+bill color: yellow lower bill; black upper bill  
+bill shape: long slightly curved bill  
+eye color: dark brown eyes  
+head color: grayish brown head  
+head feature: N/A  
+wing color: warm brown wings  
+wing shape: long rounded wings  
+wing feature: N/A  
+body color: pale underside; brown upper body  
+back color: brown back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: brown tail with white tips  
+tail shape: long graduated tail  
+tail feature: bold white spots underneath tail
+
+Gray crowned Rosy Finch  
+bill color: pale yellow bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: black forehead  
+wing color: brown wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: pinkish-brown body  
+back color: brown back  
+back feature: N/A  
+breast color: pinkish-brown breast  
+breast feature: N/A  
+belly color: pinkish-brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short notched tail  
+tail feature: N/A
+
+Purple Finch  
+bill color: pale ivory bill  
+bill shape: short thick conical bill  
+eye color: dark brown eyes  
+head color: rosy red head; brown head  
+head feature: N/A  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: faint wing bars  
+body color: rosy red body; brown body  
+back color: brown back  
+back feature: streaked back  
+breast color: rosy red breast; brown breast  
+breast feature: streaked breast
+belly color: white belly  
+belly feature: streaked belly
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short notched tail  
+tail feature: N/A
+
+Northern Flicker
+bill color: gray bill  
+bill shape: long slightly curved bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: red nape patch; black mustache stripe
+wing color: brown wings  
+wing shape: broad rounded wings  
+wing feature: black barred wings
+body color: brown body  
+back color: brown back  
+back feature: black barring  
+breast color: light brown breast  
+breast feature: black spotted breast
+belly color: light brown belly  
+belly feature: black spotted belly
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: zygodactyl feet  
+tail color: black tail  
+tail shape: long pointed tail
+
+Acadian Flycatcher  
+bill color: pale orange lower bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: olive-green head  
+head feature: pale eye-ring; peaked crown
+wing color: olive-green wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: olive-green body  
+back color: olive-green back  
+back feature: N/A  
+breast color: pale yellow breast  
+breast feature: N/A  
+belly color: pale yellow belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: olive-green tail  
+tail shape: short slightly notched tail  
+tail feature: N/A
+
+Great Crested Flycatcher  
+bill color: black bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: olive brown head  
+head feature: raised tufted crest 
+wing color: brown wings  
+wing shape: broad rounded wings  
+wing feature: pale wing edges  
+body color: olive brown body  
+back color: olive brown back  
+back feature: N/A  
+breast color: pale yellow breast  
+breast feature: N/A  
+belly color: bright yellow belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: rufous tail  
+tail shape: long slightly notched tail  
+tail feature: rufous outer edges
+
+Least Flycatcher  
+bill color: gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: grayish-olive head  
+head feature: white eye-ring  
+wing color: grayish-olive wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: grayish-olive body  
+back color: grayish-olive back  
+back feature: N/A  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: grayish-olive tail  
+tail shape: short slightly notched tail  
+tail feature: N/A
+
+Olive-sided Flycatcher  
+bill color: black bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: dark gray head  
+head feature: N/A  
+wing color: dark gray wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: dark gray body  
+back color: dark gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: dark gray vest  
+belly color: white belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: dark gray tail  
+tail shape: medium slightly notched tail  
+tail feature: N/A
+
+Scissor-tailed Flycatcher  
+bill color: black bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: light gray head  
+head feature: N/A  
+wing color: gray wings  
+wing shape: long pointed wings  
+wing feature: dark outer edges  
+body color: light gray body  
+back color: light gray back  
+back feature: N/A  
+breast color: light gray breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: peach wash on sides  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black and white tail  
+tail shape: long forked tail  
+tail feature: white outer edges  
+
+Vermilion Flycatcher
+bill color: black bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: bright red head; dark brown head  
+head feature: dark mask around eyes  
+wing color: dark brown wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: bright red body; dark brown body  
+back color: dark brown back  
+back feature: N/A  
+breast color: bright red breast; dark brown breast  
+breast feature: N/A  
+belly color: bright red belly; dark brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: dark brown tail  
+tail shape: short slightly notched tail  
+tail feature: N/A
+
+Yellow-bellied Flycatcher  
+bill color: black bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: olive-green head  
+head feature: faint eye-ring  
+wing color: olive-green wings  
+wing shape: short rounded wings  
+wing feature: pale wing bars  
+body color: olive-green body  
+back color: olive-green back  
+back feature: N/A  
+breast color: yellowish breast  
+breast feature: N/A  
+belly color: bright yellow belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: olive-green tail  
+tail shape: short slightly notched tail  
+tail feature: N/A
+
+Frigatebird  
+bill color: pale gray bill  
+bill shape: long hooked bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: N/A  
+wing color: black wings  
+wing shape: long narrow wings  
+wing feature: N/A  
+body color: black body  
+back color: black back  
+back feature: N/A  
+breast color: black breast;
+breast feature: red throat pouch
+belly color: black belly; white belly
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: black tail  
+tail shape: long forked tail  
+tail feature: N/A  
+
+Northern Fulmar  
+bill color: yellow bill  
+bill shape: short thick hooked bill  
+eye color: dark brown eyes  
+head color: light gray head; white head  
+head feature: N/A  
+wing color: light gray wings; dark gray wings  
+wing shape: long broad wings  
+wing feature: N/A  
+body color: light gray body; white body  
+back color: light gray back; dark gray back  
+back feature: N/A  
+breast color: light gray breast; white breast  
+breast feature: N/A  
+belly color: light gray belly; white belly  
+belly feature: N/A  
+leg color: pale blue-gray legs  
+leg feature: N/A  
+feet color: pale blue-gray feet  
+feet feature: webbed feet  
+tail color: light gray tail; dark gray tail  
+tail shape: short rounded tail  
+tail feature: N/A
+
+**Gadwall**  
+bill color: black bill; orange-edged bill  
+bill shape: short slightly broad bill  
+eye color: dark brown eyes  
+head color: gray head; mottled brown head  
+head feature: smooth rounded head  
+wing color: gray wings; brown wings  
+wing shape: medium rounded wings  
+wing feature: white wing patch  
+body color: gray body; mottled brown body  
+back color: gray back; mottled brown back  
+back feature: fine wavy pattern  
+breast color: gray breast; mottled brown breast  
+breast feature: fine wavy pattern  
+belly color: light gray belly; pale brown belly  
+belly feature: plain belly  
+leg color: yellow legs  
+leg feature: N/A  
+feet color: yellow feet  
+feet feature: webbed feet  
+tail color: black tail  
+tail shape: short pointed tail  
+tail feature: black rump with white edges
+
+American Goldfinch  
+bill color: orange bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: bright yellow head; brown head  
+head feature: black cap;
+wing color: black wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: bright yellow body; brown body  
+back color: olive back; brown back  
+back feature: N/A  
+breast color: bright yellow breast; brown breast  
+breast feature: N/A  
+belly color: bright yellow belly; brown belly  
+belly feature: N/A  
+leg color: pale pink legs  
+leg feature: N/A  
+feet color: pale pink feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: short notched tail  
+tail feature: white outer tail feathers
+
+European Goldfinch  
+bill color: pale ivory bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: black and white head  
+head feature: bright red face  
+wing color: black wings  
+wing shape: medium rounded wings  
+wing feature: yellow wing stripe  
+body color: warm brown body  
+back color: warm brown back  
+back feature: N/A  
+breast color: warm brown breast  
+breast feature: N/A  
+belly color: pale cream belly  
+belly feature: N/A  
+leg color: pale pink legs  
+leg feature: N/A  
+feet color: pale pink feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: short slightly notched tail  
+tail feature: white tail spots
+
+Boat-tailed Grackle  
+bill color: black bill  
+bill shape: long pointed bill  
+eye color: pale yellow eyes; dark brown eyes  
+head color: glossy black head; dark brown head  
+head feature: iridescent sheen on head  
+wing color: glossy black wings; dark brown wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: glossy black body; dark brown body  
+back color: glossy black back; dark brown back  
+back feature: N/A  
+breast color: glossy black breast; dark brown breast  
+breast feature: N/A  
+belly color: glossy black belly; dark brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: glossy black tail; dark brown tail  
+tail shape: long keel-shaped tail  
+tail feature: N/A
+
+Eared Grebe  
+bill color: black bill  
+bill shape: short thin bill  
+eye color: bright red eyes  
+head color: black head  
+head feature: golden fan-like plumes  
+wing color: dark gray wings  
+wing shape: short pointed wings  
+wing feature: N/A  
+body color: black and chestnut body  
+back color: black back  
+back feature: N/A  
+breast color: chestnut breast  
+breast feature: N/A  
+belly color: chestnut belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: lobed feet  
+tail color: black tail  
+tail shape: short tail  
+tail feature: N/A
+
+Horned Grebe  
+bill color: black bill  
+bill shape: short straight bill  
+eye color: bright red eyes  
+head color: black head; gray head  
+head feature: golden head tufts; white cheek patch  
+wing color: dark gray wings  
+wing shape: short pointed wings  
+wing feature: N/A  
+body color: black body; gray body  
+back color: black back; gray back  
+back feature: N/A  
+breast color: black breast; gray breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: lobed feet  
+tail color: dark gray tail  
+tail shape: short tail  
+tail feature: N/A
+
+Pied billed Grebe  
+bill color: pale ivory bill; blue bill  
+bill shape: short thick bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: dark crown; pale throat  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: brown body  
+back color: brown back  
+back feature: N/A  
+breast color: brown breast  
+breast feature: N/A  
+belly color: brown belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: lobed feet  
+tail color: brown tail  
+tail shape: short stubby tail  
+tail feature: N/A
+
+Western Grebe  
+bill color: yellow bill  
+bill shape: long slender bill  
+eye color: bright red eyes  
+head color: black head  
+head feature: white face  
+wing color: black wings  
+wing shape: long pointed wings  
+wing feature: N/A  
+body color: black and white body  
+back color: black back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: set far back  
+feet color: gray feet  
+feet feature: lobed feet  
+tail color: black tail  
+tail shape: short tail  
+tail feature: N/A
+
+Blue Grosbeak  
+bill color: silver lower bill  
+bill shape: large conical bill  
+eye color: dark brown eyes  
+head color: deep blue head; warm brown head  
+head feature: black line from bill to eye; subtle blue tinge on head  
+wing color: black wings
+wing shape: rounded wings  
+wing feature: prominent chestnut wingbars; light brown wingbars  
+body color: vibrant blue body; warm brown body  
+back color: deep blue back; warm brown back  
+back feature: N/A  
+breast color: deep blue breast; light brown breast  
+breast feature: N/A  
+belly color: deep blue belly; light brown belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: slightly notched tail  
+tail feature: N/A
+
+Evening Grosbeak  
+bill color: pale ivory bill  
+bill shape: thick conical bill  
+eye color: dark brown eyes  
+head color: yellow head; brown head  
+head feature: black forehead  
+wing color: black wings  
+wing shape: broad rounded wings  
+wing feature: large white patches  
+body color: yellow body; brown body  
+back color: yellow back; brown back  
+back feature: N/A  
+breast color: yellow breast; brown breast  
+breast feature: N/A  
+belly color: yellow belly; brown belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: short squared tail  
+tail feature: N/A
+
+Pine Grosbeak  
+bill color: black bill  
+bill shape: short thick bill  
+eye color: dark brown eyes  
+head color: red head; gray head  
+head feature: N/A  
+wing color: gray wings; dark brown wings  
+wing shape: medium rounded wings  
+wing feature: white wing bars  
+body color: red body; gray body  
+back color: red back; gray back  
+back feature: N/A  
+breast color: red breast; gray breast  
+breast feature: N/A  
+belly color: red belly; gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: gray tail; dark brown tail  
+tail shape: medium-length slightly notched tail  
+tail feature: N/A
+
+Rose-breasted Grosbeak  
+bill color: pale ivory bill  
+bill shape: thick conical bill  
+eye color: dark brown eyes  
+head color: black head; brown head  
+head feature: N/A  
+wing color: black wings; brown wings  
+wing shape: broad rounded wings  
+wing feature: white wing patches  
+body color: black and white body; brown streaked body  
+back color: black back; brown streaked back  
+back feature: N/A  
+breast color: bright rose breast; pale streaked breast  
+breast feature: bold color contrast  
+belly color: white belly; pale streaked belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: black and white tail; brown streaked tail  
+tail shape: medium-length rounded tail  
+tail feature: white outer tail feathers
+
+Pigeon Guillemot  
+bill color: black bill  
+bill shape: short slender bill  
+eye color: dark brown eyes  
+head color: black head; dark gray head  
+head feature: white eye-ring  
+wing color: black wings; dark gray wings  
+wing shape: short rounded wings  
+wing feature: white wing patch  
+body color: black body; dark gray body  
+back color: black back; dark gray back  
+back feature: N/A  
+breast color: black breast; dark gray breast  
+breast feature: N/A  
+belly color: black belly; dark gray belly  
+belly feature: N/A  
+leg color: bright red legs  
+leg feature: N/A  
+feet color: bright red feet  
+feet feature: webbed feet  
+tail color: black tail; dark gray tail  
+tail shape: short tail  
+tail feature: N/A
+
+California Gull  
+bill color: yellow bill  
+bill shape: medium slightly hooked bill  
+eye color: dark brown eyes  
+head color: white head  
+head feature: N/A  
+wing color: gray wings  
+wing shape: long pointed wings  
+wing feature: black wingtips with white spots  
+body color: white body  
+back color: gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: yellow legs  
+leg feature: N/A  
+feet color: yellow feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: medium squared tail  
+tail feature: N/A
+
+Glaucous-winged Gull  
+bill color: yellow bill  
+bill shape: thick slightly hooked bill  
+eye color: dark brown eyes; pale yellow eyes  
+head color: white head; light gray head  
+head feature: mottled gray streaks in winter  
+wing color: light gray wings  
+wing shape: broad rounded wings  
+wing feature: white-tipped primary feathers  
+body color: white body  
+back color: light gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: medium-length square tail  
+tail feature: N/A
+
+Heermann's Gull  
+bill color: bright red bill  
+bill shape: slightly hooked seabird bill  
+eye color: dark brown eyes  
+head color: white head; dark gray head  
+head feature: white head in adult; dark gray head in juvenile  
+wing color: dark gray wings  
+wing shape: broad pointed wings  
+wing feature: N/A  
+body color: dark gray body  
+back color: dark gray back  
+back feature: N/A  
+breast color: dark gray breast  
+breast feature: N/A  
+belly color: dark gray belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: webbed feet  
+tail color: black tail  
+tail shape: medium rounded tail  
+tail feature: white tail tip
+
+Herring Gull  
+bill color: yellow bill  
+bill shape: thick slightly hooked bill  
+eye color: pale yellow eyes  
+head color: white head; streaked gray head  
+head feature: winter gray streaks  
+wing color: gray wings  
+wing shape: broad rounded wings  
+wing feature: black wingtips with white spots  
+body color: white body  
+back color: gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: medium rounded tail  
+tail feature: N/A
+
+Ivory Gull  
+bill color: yellow-tipped gray bill  
+bill shape: short thick bill  
+eye color: dark brown eyes  
+head color: white head  
+head feature: N/A  
+wing color: white wings  
+wing shape: long pointed wings  
+wing feature: N/A  
+body color: white body  
+back color: white back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: short squared tail  
+tail feature: N/A
+
+Ring billed Gull  
+bill color: yellow bill  
+bill shape: short slightly hooked bill  
+eye color: pale yellow eyes  
+head color: white head  
+head feature: N/A  
+wing color: gray wings  
+wing shape: long pointed wings  
+wing feature: black wingtips with white spots  
+body color: white body  
+back color: gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: yellow legs  
+leg feature: N/A  
+feet color: yellow feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: medium-length squared tail  
+tail feature: N/A
+
+Slaty backed Gull
+bill color: yellow bill; black spot on bill
+bill shape: thick hooked bill
+eye color: pale yellow eyes
+head color: white head
+head feature: N/A
+wing color: dark gray wings
+wing shape: long pointed wings
+wing feature: white spotted wingtips
+body color: white body
+back color: dark gray back
+back feature: N/A
+breast color: white breast
+breast feature: N/A
+belly color: white belly
+belly feature: N/A
+leg color: pink legs
+leg feature: N/A
+feet color: pink feet
+feet feature: webbed feet
+tail color: white tail
+tail shape: medium squared tail
+tail feature: N/A
+
+Western Gull
+bill color: yellow bill
+bill shape: thick hooked bill
+eye color: dark brown eyes
+head color: white head
+head feature: N/A
+wing color: dark gray wings
+wing shape: long pointed wings
+wing feature: white wingtips
+body color: white body
+back color: dark gray back
+back feature: N/A
+breast color: white breast
+breast feature: N/A
+belly color: white belly
+belly feature: N/A
+leg color: pink legs
+leg feature: N/A
+feet color: pink feet
+feet feature: webbed feet
+tail color: white tail
+tail shape: medium squared tail
+tail feature: N/A
+
+Anna's Hummingbird  
+bill color: black bill  
+bill shape: long slender bill  
+eye color: dark brown eyes  
+head color: iridescent pink head; gray head  
+head feature: iridescent crown; iridescent throat  
+wing color: dark gray wings  
+wing shape: short pointed wings  
+wing feature: N/A  
+body color: green body; gray body  
+back color: metallic green back  
+back feature: N/A  
+breast color: gray breast  
+breast feature: N/A  
+belly color: gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: dark gray tail; green tail
+tail shape: short slightly forked tail  
+tail feature: N/A
+
+Ruby throated Hummingbird
+bill color: black bill
+bill shape: long needle thin bill
+eye color: dark brown eyes
+head color: green head ruby throat
+head feature: iridescent ruby throat patch
+wing color: dark gray wings
+wing shape: short narrow wings
+wing feature: humming wing motion visible
+body color: green body
+back color: green back
+back feature: iridescent green feathers
+breast color: white breast
+breast feature: N/A
+belly color: white belly
+belly feature: N/A
+leg color: black legs
+leg feature: N/A
+feet color: black feet
+feet feature: N/A
+tail color: dark forked tail
+tail shape: short forked tail
+tail feature: N/A
+
+Rufous Hummingbird
+bill color: black bill  
+bill shape: long thin slightly curved bill  
+eye color: dark brown eyes  
+head color: rufous head; green head  
+head feature: white patch behind eye  
+wing color: dark brown wings  
+wing shape: short pointed wings  
+wing feature: N/A  
+body color: rufous body; greenish body  
+back color: rufous back; green back  
+back feature: N/A  
+breast color: rufous breast; light brown breast  
+breast feature: N/A  
+belly color: rufous belly; light brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: rufous tail with black tips  
+tail shape: short slightly forked tail  
+tail feature: iridescent orange feathers on tail
+
+Green Violetear
+bill color: black bill  
+bill shape: long slightly curved bill  
+eye color: dark brown eyes  
+head color: green head  
+head feature: violet-blue ear patch  
+wing color: green wings  
+wing shape: short pointed wings  
+wing feature: N/A  
+body color: green body  
+back color: green back  
+back feature: N/A  
+breast color: green breast  
+breast feature: N/A  
+belly color: green belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: green tail with blue tips  
+tail shape: short slightly forked tail  
+tail feature: iridescent blue band on tail
+
+Long-tailed Jaeger
+bill color: black bill  
+bill shape: short hooked bill  
+eye color: dark brown eyes  
+head color: black cap; dark brown cap  
+head feature: white cheeks and throat  
+wing color: dark brown wings  
+wing shape: long pointed wings  
+wing feature: white flash on primaries  
+body color: pale brown body; dark brown body  
+back color: dark brown back  
+back feature: N/A  
+breast color: pale brown breast; dark brown breast  
+breast feature: N/A  
+belly color: pale brown belly; dark brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: black tail with elongated central feathers  
+tail shape: long pointed tail  
+tail feature: long central streamers on tail
+
+Pomarine Jaeger  
+bill color: black bill  
+bill shape: short hooked bill  
+eye color: dark brown eyes  
+head color: dark brown head; pale brown head  
+head feature: white collar; black cap  
+wing color: dark brown wings  
+wing shape: long pointed wings  
+wing feature: white wing patches  
+body color: dark brown body; pale brown body  
+back color: dark brown back; pale brown back  
+back feature: N/A  
+breast color: dark brown breast; pale brown breast  
+breast feature: N/A  
+belly color: dark brown belly; pale brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: dark brown tail  
+tail shape: long central tail streamers  
+tail feature: twisted tail feathers  
+
+Blue Jay  
+bill color: black bill  
+bill shape: short strong bill  
+eye color: dark brown eyes  
+head color: blue head  
+head feature: black necklace; pointed crest  
+wing color: blue wings  
+wing shape: broad rounded wings  
+wing feature: black barred wings; white patches  
+body color: blue and white body  
+back color: blue back  
+back feature: black barring  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: blue tail  
+tail shape: long slightly rounded tail  
+tail feature: black barring on tail; white tail tips  
+
+Florida Jay  
+bill color: black bill  
+bill shape: short strong bill  
+eye color: dark brown eyes  
+head color: pale gray head  
+head feature: blue crown  
+wing color: blue wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: blue and gray body  
+back color: blue back  
+back feature: N/A  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: blue tail  
+tail shape: long slightly rounded tail  
+tail feature: N/A  
+
+Green Jay  
+bill color: black bill  
+bill shape: short strong bill  
+eye color: dark brown eyes  
+head color: bright green and black head  
+head feature: bright blue crown  
+wing color: bright green wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: bright green and yellow body  
+back color: bright green back  
+back feature: N/A  
+breast color: yellow breast  
+breast feature: N/A  
+belly color: yellow belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: bright green tail  
+tail shape: long slightly rounded tail  
+tail feature: yellow tail tips
+
+Dark eyed Junco
+bill color: pale pink bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: dark gray head; brownish-gray head  
+head feature: N/A  
+wing color: gray wings; brownish wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: gray body; brownish-gray body  
+back color: gray back; brownish back  
+back feature: N/A  
+breast color: gray breast; pale brown breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: dark gray tail; brownish-gray tail  
+tail shape: long slightly notched tail  
+tail feature: white outer tail feathers  
+
+Tropical Kingbird
+bill color: black bill  
+bill shape: medium thick bill  
+eye color: dark brown eyes  
+head color: pale gray head  
+head feature: N/A  
+wing color: olive-brown wings  
+wing shape: medium rounded wings  
+wing feature: faint wing bars  
+body color: yellow body  
+back color: olive-green back  
+back feature: N/A  
+breast color: yellow breast  
+breast feature: N/A  
+belly color: bright yellow belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: long slightly forked tail  
+tail feature: N/A  
+
+Gray Kingbird 
+bill color: black bill  
+bill shape: long thick bill  
+eye color: dark brown eyes  
+head color: pale gray head  
+head feature: black eye mask  
+wing color: brownish-gray wings  
+wing shape: medium rounded wings  
+wing feature: faint wing bars  
+body color: pale gray body  
+back color: brownish-gray back  
+back feature: N/A  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: brownish-gray tail  
+tail shape: long slightly forked tail  
+tail feature: N/A
+
+Belted Kingfisher
+bill color: black bill  
+bill shape: long thick pointed bill  
+eye color: dark brown eyes  
+head color: blue-gray head  
+head feature: shaggy crest  
+wing color: blue-gray wings  
+wing shape: broad pointed wings  
+wing feature: white spots on flight feathers  
+body color: blue-gray and white body  
+back color: blue-gray back  
+back feature: N/A  
+breast color: white breast; rusty breast band (female)  
+breast feature: blue-gray breast band; rusty breast band (female)  
+belly color: white belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: blue-gray tail  
+tail shape: medium-length square tail  
+tail feature: white band near tail tip  
+
+Green Kingfisher
+bill color: black bill  
+bill shape: long thin pointed bill  
+eye color: dark brown eyes  
+head color: dark green head  
+head feature: small crest  
+wing color: dark green wings  
+wing shape: short rounded wings  
+wing feature: white spots on flight feathers  
+body color: dark green and white body  
+back color: dark green back  
+back feature: N/A  
+breast color: white breast; rusty breast (male)  
+breast feature: rusty breast band (male); white spotted band (female)  
+belly color: white belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: dark green tail  
+tail shape: short square tail  
+tail feature: white spots on tail  
+
+Pied Kingfisher
+bill color: black bill  
+bill shape: long thick pointed bill  
+eye color: dark brown eyes  
+head color: black and white head  
+head feature: spiky crest  
+wing color: black and white wings  
+wing shape: broad pointed wings  
+wing feature: black and white barred pattern  
+body color: black and white body  
+back color: black and white back  
+back feature: barred pattern  
+breast color: white breast; black breast band (male: double, female: single)  
+breast feature: black band(s) across chest  
+belly color: white belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: black and white tail  
+tail shape: medium-length square tail  
+tail feature: black and white barred tail
+
+Ringed Kingfisher
+bill color: black bill  
+bill shape: long thick pointed bill  
+eye color: dark brown eyes  
+head color: blue-gray head  
+head feature: shaggy crest  
+wing color: blue-gray wings  
+wing shape: broad pointed wings  
+wing feature: N/A  
+body color: blue-gray and rusty body  
+back color: blue-gray back  
+back feature: N/A  
+breast color: rusty breast  
+breast feature: N/A  
+belly color: rusty belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: blue-gray tail  
+tail shape: medium-length square tail  
+tail feature: white band near tail tip  
+
+White-breasted Kingfisher
+bill color: red bill  
+bill shape: long thick pointed bill  
+eye color: dark brown eyes  
+head color: dark brown head  
+head feature: N/A  
+wing color: bright blue wings  
+wing shape: broad pointed wings  
+wing feature: white wing patches  
+body color: dark brown and blue body  
+back color: bright blue back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: bright red legs  
+leg feature: N/A  
+feet color: bright red feet  
+feet feature: N/A  
+tail color: bright blue tail  
+tail shape: medium-length square tail  
+tail feature: N/A
+
+Red-legged Kittiwake
+bill color: yellow bill  
+bill shape: short slightly hooked bill  
+eye color: dark brown eyes  
+head color: white head  
+head feature: dark eye spot  
+wing color: gray wings  
+wing shape: long pointed wings  
+wing feature: black wingtips  
+body color: white body  
+back color: gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: bright red legs  
+leg feature: N/A  
+feet color: bright red feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: short slightly forked tail  
+tail feature: black tail edge  
+
+Horned Lark
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: yellow and black head  
+head feature: black horn-like tufts  
+wing color: brown wings  
+wing shape: medium pointed wings  
+wing feature: N/A  
+body color: brown body  
+back color: brown back  
+back feature: N/A  
+breast color: pale yellow breast  
+breast feature: black breast band  
+belly color: pale yellow belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: sharp claws  
+tail color: black tail  
+tail shape: medium-length slightly forked tail  
+tail feature: white outer tail feathers  
+
+Pacific Loon
+bill color: black bill  
+bill shape: straight sharp bill  
+eye color: red eyes  
+head color: gray head  
+head feature: N/A  
+wing color: dark gray wings  
+wing shape: long pointed wings  
+wing feature: N/A  
+body color: black and white body  
+back color: black back  
+back feature: white speckled back  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: set far back on body  
+feet color: dark gray feet  
+feet feature: lobed feet  
+tail color: black tail  
+tail shape: short rounded tail  
+tail feature: N/A  
+
+Mallard
+bill color: yellow bill; orange bill  
+bill shape: broad flat bill  
+eye color: dark brown eyes  
+head color: iridescent green head; brown head  
+head feature: white neck ring; N/A  
+wing color: brown and blue wings  
+wing shape: broad rounded wings  
+wing feature: blue speculum patch  
+body color: brown and gray body  
+back color: brown and gray back  
+back feature: N/A  
+breast color: chestnut brown breast; speckled brown breast  
+breast feature: N/A  
+belly color: gray belly; speckled brown belly  
+belly feature: N/A  
+leg color: orange legs  
+leg feature: N/A  
+feet color: orange feet  
+feet feature: webbed feet  
+tail color: black and white tail  
+tail shape: short slightly upturned tail  
+tail feature: curled black feathers on tail
+
+Western Meadowlark
+bill color: gray bill  
+bill shape: long pointed bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: black and white stripes  
+wing color: brown wings  
+wing shape: broad rounded wings  
+wing feature: black barred wings  
+body color: yellow body  
+back color: brown back  
+back feature: black streaked back  
+breast color: bright yellow breast  
+breast feature: black V-shaped band on breast
+belly color: yellow belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium-length pointed tail  
+tail feature: white outer tail feathers  
+
+Hooded Merganser
+bill color: black bill  
+bill shape: thin serrated bill  
+eye color: bright yellow eyes; dark brown eyes  
+head color: black head; brown head  
+head feature: large fan-shaped crest  
+wing color: black and white wings; brown wings  
+wing shape: medium pointed wings  
+wing feature: white patch on wings  
+body color: black and white body; brown body  
+back color: black back; brown back  
+back feature: N/A  
+breast color: white breast; gray breast  
+breast feature: bold black border; N/A  
+belly color: white belly; gray belly  
+belly feature: N/A  
+leg color: yellow legs  
+leg feature: N/A  
+feet color: yellow feet  
+feet feature: lobed feet  
+tail color: black tail; brown tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A  
+
+Red-breasted Merganser
+bill color: bright orange bill  
+bill shape: long thin serrated bill  
+eye color: bright red eyes  
+head color: dark green head; brown head  
+head feature: shaggy crest  
+wing color: black and white wings; brown wings  
+wing shape: medium pointed wings  
+wing feature: white wing patch  
+body color: gray and white body; brown and gray body  
+back color: black back; brown back  
+back feature: N/A  
+breast color: rusty brown breast; gray breast  
+breast feature: speckled breast
+belly color: white belly; gray belly  
+belly feature: N/A  
+leg color: orange legs  
+leg feature: N/A  
+feet color: orange feet  
+feet feature: lobed feet  
+tail color: gray tail  
+tail shape: medium-length pointed tail  
+tail feature: N/A  
+
+Mockingbird
+bill color: black bill  
+bill shape: short slightly curved bill  
+eye color: yellow eyes  
+head color: gray head  
+head feature: N/A  
+wing color: gray wings  
+wing shape: medium rounded wings  
+wing feature: white wing patches  
+body color: gray body  
+back color: gray back  
+back feature: N/A  
+breast color: light gray breast  
+breast feature: faint streaking  
+belly color: light gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: gray tail  
+tail shape: long slightly fanned tail  
+tail feature: white outer tail feathers
+
+Nighthawk
+bill color: black bill  
+bill shape: short slightly curved bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: white throat patch  
+wing color: dark brown wings  
+wing shape: long pointed wings  
+wing feature: white wing stripe  
+body color: brown body  
+back color: brown back  
+back feature: mottled brown and gray back  
+breast color: brown breast  
+breast feature: white horizontal band  
+belly color: brown belly  
+belly feature: mottled brown belly  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: small weak feet  
+tail color: dark brown tail  
+tail shape: medium-length slightly notched tail  
+tail feature: white tail band  
+
+Clark's Nutcracker
+bill color: black bill  
+bill shape: long straight bill  
+eye color: dark brown eyes  
+head color: pale gray head  
+head feature: black eye stripe  
+wing color: black wings  
+wing shape: broad rounded wings  
+wing feature: white wing patches  
+body color: pale gray body  
+back color: pale gray back  
+back feature: N/A  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: strong gripping feet  
+tail color: black tail  
+tail shape: medium-length square tail  
+tail feature: white tail tips  
+
+White-breasted Nuthatch
+bill color: black bill  
+bill shape: long straight bill  
+eye color: dark brown eyes  
+head color: white head  
+head feature: black cap  
+wing color: gray wings  
+wing shape: short rounded wings  
+wing feature: black and white wings
+body color: white body  
+back color: blue-gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: rusty undertail patch 
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: strong climbing feet  
+tail color: black and white tail  
+tail shape: short slightly notched tail  
+tail feature: white outer tail feathers
+
+Baltimore Oriole 
+bill color: grayish-silver bill  
+bill shape: long pointed bill  
+eye color: dark brown eyes  
+head color: black head; grayish-orange head  
+head feature: N/A  
+wing color: black wings  
+wing shape: medium rounded wings  
+wing feature: white wing bars  
+body color: bright orange body; dull yellow body  
+back color: black back; dull orange back  
+back feature: N/A  
+breast color: bright orange breast; dull yellow breast  
+breast feature: N/A  
+belly color: bright orange belly; dull yellow belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: black tail with orange edges  
+tail shape: medium slightly notched tail  
+tail feature: N/A  
+
+Hooded Oriole
+bill color: black bill  
+bill shape: long curved bill  
+eye color: dark brown eyes  
+head color: bright orange head; yellow head  
+head feature: black throat patch  
+wing color: black wings  
+wing shape: medium rounded wings  
+wing feature: white wing bars  
+body color: bright orange body; yellow body  
+back color: black back; yellow-green back  
+back feature: N/A  
+breast color: bright orange breast; yellow breast  
+breast feature: N/A  
+belly color: bright orange belly; yellow belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: long slightly notched tail  
+tail feature: N/A  
+
+Orchard Oriole
+bill color: grayish-black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: black head; brownish-yellow head  
+head feature: N/A  
+wing color: black wings; grayish wings  
+wing shape: medium rounded wings  
+wing feature: white wing bars  
+body color: chestnut body; yellowish body  
+back color: black back; olive-green back  
+back feature: N/A  
+breast color: chestnut breast; yellow breast  
+breast feature: N/A  
+belly color: chestnut belly; yellow belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: black tail with chestnut edges  
+tail shape: medium slightly notched tail  
+tail feature: N/A  
+
+Scott's Oriole
+bill color: black bill  
+bill shape: long slightly curved bill  
+eye color: dark brown eyes  
+head color: black head; yellow-green head  
+head feature: N/A  
+wing color: black wings  
+wing shape: medium rounded wings  
+wing feature: white wing bars  
+body color: bright yellow body; yellow-green body  
+back color: black back; olive-green back  
+back feature: N/A  
+breast color: bright yellow breast; yellow-green breast  
+breast feature: N/A  
+belly color: bright yellow belly; yellow-green belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: black tail with yellow edges  
+tail shape: long slightly notched tail  
+tail feature: N/A
+
+Ovenbird
+bill color: pinkish bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: olive-brown head  
+head feature: orange crown stripe with black borders  
+wing color: olive-brown wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: olive-brown body  
+back color: olive-brown back  
+back feature: N/A  
+breast color: white breast  
+breast feature: black streaked breast  
+belly color: white belly  
+belly feature: black streaked belly  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: olive-brown tail  
+tail shape: short rounded tail  
+tail feature: N/A  
+
+Brown Pelican 
+bill color: gray bill  
+bill shape: long hooked bill  
+eye color: pale yellow eyes  
+head color: white head; yellowish head  
+head feature: dark brown nape  
+wing color: dark gray wings  
+wing shape: broad long wings  
+wing feature: N/A  
+body color: dark gray body  
+back color: dark gray back  
+back feature: N/A  
+breast color: white breast; dark brown breast  
+breast feature: N/A  
+belly color: white belly; dark brown belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black webbed feet  
+feet feature: N/A  
+tail color: dark gray tail  
+tail shape: medium rounded tail  
+tail feature: N/A  
+
+White Pelican
+bill color: orange bill  
+bill shape: long flat bill  
+eye color: dark brown eyes  
+head color: white head  
+head feature: N/A  
+wing color: white wings  
+wing shape: broad long wings  
+wing feature: black flight feathers  
+body color: white body  
+back color: white back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: orange legs  
+leg feature: N/A  
+feet color: orange webbed feet  
+feet feature: N/A  
+tail color: white tail  
+tail shape: short rounded tail  
+tail feature: N/A  
+
+Western Wood Pewee
+bill color: dark upper bill; orange lower bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: grayish-brown head  
+head feature: slight crest  
+wing color: grayish-brown wings  
+wing shape: medium pointed wings  
+wing feature: pale wing bars  
+body color: grayish-brown body  
+back color: grayish-brown back  
+back feature: N/A  
+breast color: pale gray breast  
+breast feature: faint streak on breast
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: grayish-brown tail  
+tail shape: medium-length slightly notched tail  
+tail feature: N/A
+
+Sayornis  
+bill color: black bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: grayish brown head  
+head feature: N/A  
+wing color: grayish brown wings  
+wing shape: medium rounded wings  
+wing feature: faint wing bars  
+body color: grayish brown body  
+back color: grayish brown back  
+back feature: N/A  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale yellow belly; pale gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: dark brown tail  
+tail shape: long slightly rounded tail  
+tail feature: frequent tail bobbing  
+
+American Pipit  
+bill color: black bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: brownish gray head  
+head feature: pale eyebrow stripe  
+wing color: brownish gray wings  
+wing shape: medium pointed wings  
+wing feature: faint wing bars  
+body color: brownish gray body  
+back color: brownish gray back  
+back feature: streaked back  
+breast color: pale brown breast  
+breast feature: dark streaked breast  
+belly color: pale yellow belly; pale white belly  
+belly feature: N/A  
+leg color: black legs; pinkish legs  
+leg feature: N/A  
+feet color: black feet; pinkish feet  
+feet feature: N/A  
+tail color: dark brown tail  
+tail shape: long slightly notched tail  
+tail feature: white outer tail feathers  
+
+Whip-poor-will  
+bill color: black bill  
+bill shape: short wide bill  
+eye color: dark brown eyes  
+head color: mottled brown head  
+head feature: small white throat patch  
+wing color: mottled brown wings  
+wing shape: long pointed wings  
+wing feature: white wing spots; buff wing spots
+body color: mottled brown body  
+back color: mottled brown back  
+back feature: cryptic patterned back
+breast color: mottled brown breast  
+breast feature: N/A  
+belly color: mottled brown belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: mottled brown tail  
+tail shape: medium rounded tail  
+tail feature: white tail tips; buff tail tips
+
+Horned Puffin  
+bill color: orange and yellow bill  
+bill shape: large triangular bill  
+eye color: dark brown eyes  
+head color: white head  
+head feature: black cap; fleshy eye ornament  
+wing color: black wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: black and white body  
+back color: black back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: orange legs  
+leg feature: webbed feet  
+feet color: orange feet  
+feet feature: webbed feet  
+tail color: black tail  
+tail shape: short rounded tail  
+tail feature: N/A
+
+Common Raven
+bill color: black bill  
+bill shape: large thick curved bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: shaggy throat feathers  
+wing color: black wings  
+wing shape: long pointed wings  
+wing feature: glossy sheen  
+body color: black body  
+back color: black back  
+back feature: glossy sheen  
+breast color: black breast  
+breast feature: N/A  
+belly color: black belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: long wedge-shaped tail  
+tail feature: N/A  
+
+White-necked Raven 
+bill color: black bill  
+bill shape: large thick curved bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: white nape patch  
+wing color: black wings  
+wing shape: broad rounded wings  
+wing feature: glossy sheen  
+body color: black body  
+back color: black back  
+back feature: glossy sheen  
+breast color: black breast  
+breast feature: N/A  
+belly color: black belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: short rounded tail  
+tail feature: N/A  
+
+American Redstart
+bill color: black bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: black head; gray head  
+head feature: N/A  
+wing color: black wings; gray wings  
+wing shape: short rounded wings  
+wing feature: orange patches; yellow patches  
+body color: black body; gray body  
+back color: black back; gray back  
+back feature: N/A  
+breast color: black breast; pale gray breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: medium-length fanned tail  
+tail feature: orange patches on tail; yellow patches on tail
+
+Geococcyx
+bill color: gray bill  
+bill shape: long slightly curved bill  
+eye color: yellow eyes  
+head color: brown head  
+head feature: dark crest  
+wing color: brown wings  
+wing shape: broad rounded wings  
+wing feature: white streaks  
+body color: brown body  
+back color: brown back  
+back feature: white streaks  
+breast color: white breast  
+breast feature: brown streaks  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: long strong legs  
+feet color: gray feet  
+feet feature: zygodactyl feet  
+tail color: brown tail  
+tail shape: long graduated tail  
+tail feature: white tail tips
+
+Loggerhead Shrike  
+bill color: black bill  
+bill shape: short hooked bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: black eye mask  
+wing color: gray wings  
+wing shape: medium rounded wings  
+wing feature: white wing patches  
+body color: gray body  
+back color: gray back  
+back feature: N/A  
+breast color: light gray breast  
+breast feature: N/A  
+belly color: light gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: long slightly notched tail  
+tail feature: white outer tail feathers  
+
+Great Gray Shrike  
+bill color: black bill  
+bill shape: short hooked bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: black eye mask  
+wing color: gray wings  
+wing shape: medium rounded wings  
+wing feature: white wing patches  
+body color: gray body  
+back color: gray back  
+back feature: N/A  
+breast color: light gray breast  
+breast feature: N/A  
+belly color: light gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: long slightly notched tail  
+tail feature: white outer tail feathers  
+
+Baird's Sparrow  
+bill color: pale pinkish bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: dark crown stripes  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: dark streaks  
+body color: brown body  
+back color: brown back  
+back feature: dark streaks  
+breast color: buff breast  
+breast feature: fine dark streaks  
+belly color: pale buff belly  
+belly feature: N/A  
+leg color: pale pink legs  
+leg feature: N/A  
+feet color: pale pink feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short slightly notched tail  
+tail feature: dark central tail feathers  
+
+Black-throated Sparrow  
+bill color: black bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: white eyebrow stripe; black throat
+wing color: gray wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: gray body  
+back color: gray back  
+back feature: N/A  
+breast color: black and white breast
+breast feature: black throat
+belly color: white belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: long slightly notched tail  
+tail feature: white outer tail edges
+
+Brewer’s Sparrow
+bill color: pale gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: grayish brown head  
+head feature: faint eye ring  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: fine streaks  
+body color: pale brown body  
+back color: brown back  
+back feature: fine streaks  
+breast color: pale gray breast  
+breast feature: faint streaks  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: pale pink legs  
+leg feature: N/A  
+feet color: pale pink feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: long notched tail  
+tail feature: thin white tail edges  
+
+
+
+Chipping Sparrow
+bill color: black bill; pinkish bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: rusty red crown  
+head feature: bold white eyebrow  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: black streaks  
+body color: grayish brown body  
+back color: brown back  
+back feature: black streaks  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium-length notched tail  
+tail feature: N/A  
+
+Clay-colored Sparrow
+bill color: pinkish bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: pale grayish brown head  
+head feature: bold dark eye stripe  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: pale wing bars  
+body color: pale brown body  
+back color: brown back  
+back feature: fine black streaks  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: long notched tail  
+tail feature: thin pale tail edges  
+
+House Sparrow
+bill color: black bill; yellowish bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: gray crown; brown crown  
+head feature: black throat patch  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: brownish gray body  
+back color: brown back  
+back feature: black streaks  
+breast color: gray breast  
+breast feature: black bib
+belly color: gray belly  
+belly feature: N/A  
+leg color: brownish pink legs  
+leg feature: N/A  
+feet color: brownish pink feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium-length slightly rounded tail  
+tail feature: N/A
+
+Field Sparrow  
+bill color: pink bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: light brown head  
+head feature: white eye-ring  
+wing color: light brown wings  
+wing shape: short rounded wings  
+wing feature: faint wing bars  
+body color: light brown body  
+back color: light brown back  
+back feature: subtle streaking  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: light brown tail  
+tail shape: long notched tail  
+tail feature: N/A  
+
+Fox Sparrow  
+bill color: yellowish bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: reddish-brown head  
+head feature: faint eye-ring  
+wing color: reddish-brown wings  
+wing shape: broad rounded wings  
+wing feature: faint wing bars  
+body color: reddish-brown body  
+back color: reddish-brown back  
+back feature: streaked back  
+breast color: white breast  
+breast feature: heavy reddish streaks on breast
+belly color: white belly  
+belly feature: reddish streaks  on belly
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: reddish-brown tail  
+tail shape: long rounded tail  
+tail feature: N/A  
+
+Grasshopper Sparrow  
+bill color: pale pink bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: light brown head  
+head feature: pale central crown stripe  
+wing color: light brown wings  
+wing shape: short rounded wings  
+wing feature: faint wing bars  
+body color: light brown body  
+back color: light brown back  
+back feature: dark streaks on back
+breast color: pale buff breast  
+breast feature: N/A
+belly color: pale buff belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: light brown tail  
+tail shape: short notched tail  
+tail feature: N/A  
+
+Harris Sparrow  
+bill color: pink bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: black crown and throat  
+wing color: brown wings  
+wing shape: broad rounded wings  
+wing feature: faint wing bars  
+body color: brown body  
+back color: brown back  
+back feature: dark streaks on back
+breast color: white breast  
+breast feature: black bib  
+belly color: white belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium-length notched tail  
+tail feature: N/A
+
+Henslow Sparrow
+bill color: pale pink bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: olive-green head  
+head feature: fine dark streaks  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: two pale wing bars  
+body color: brown body  
+back color: brown back  
+back feature: dark streaks  
+breast color: pale buff breast  
+breast feature: fine dark streaks  
+belly color: pale buff belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short slightly notched tail  
+tail feature: N/A  
+
+Le Conte Sparrow
+bill color: pale pink bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: orange-buff head  
+head feature: central dark crown stripe  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: white-edged flight feathers  
+body color: warm brown body  
+back color: brown back  
+back feature: dark streaks  
+breast color: pale orange breast  
+breast feature: faint fine streaks  
+belly color: pale buff belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short pointed tail  
+tail feature: N/A  
+
+Lincoln Sparrow  
+bill color: dark gray bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: thin buff eye-ring  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: faint wing bars  
+body color: warm brown body  
+back color: brown back  
+back feature: black streaks  
+breast color: buffy breast  
+breast feature: fine black streaks  
+belly color: white belly  
+belly feature: central buff wash  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium rounded tail  
+tail feature: N/A  
+
+Nelson Sharp tailed Sparrow
+bill color: pale pink bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: orange-buff head  
+head feature: dark crown stripes  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: faint pale wing bars  
+body color: warm brown body  
+back color: brown back  
+back feature: black streaks  
+breast color: pale orange breast  
+breast feature: fine dark streaks  
+belly color: white belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short pointed tail  
+tail feature: slightly spiky tail
+
+Savannah Sparrow
+bill color: pale pink bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: yellowish eyebrow stripe  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: two pale wing bars  
+body color: brown body  
+back color: brown back  
+back feature: dark streaks  
+breast color: white breast  
+breast feature: bold dark streaks  
+belly color: white belly  
+belly feature: dark streaking on sides  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short slightly notched tail  
+tail feature: N/A
+
+Seaside Sparrow
+bill color: grayish bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: pale supercilium  
+wing color: brown wings  
+wing shape: medium rounded wings  
+wing feature: faint streaking  
+body color: grayish brown body  
+back color: grayish brown back  
+back feature: faint streaks  
+breast color: grayish breast  
+breast feature: fine streaking  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A  
+
+Song Sparrow
+bill color: gray bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: bold brown stripes  
+wing color: brown wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: brownish body  
+back color: brown back  
+back feature: dark streaks  
+breast color: white breast  
+breast feature: heavy dark streaks  
+belly color: white belly  
+belly feature: central dark spot  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: long rounded tail  
+tail feature: N/A  
+
+Tree Sparrow
+bill color: bicolored bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: rusty brown head  
+head feature: gray eyebrow stripe  
+wing color: brown wings  
+wing shape: medium rounded wings  
+wing feature: two white wing bars  
+body color: brownish gray body  
+back color: brown back  
+back feature: dark streaks  
+breast color: grayish breast  
+breast feature: central dark spot  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium-length notched tail  
+tail feature: N/A  
+
+Vesper Sparrow 
+bill color: pale pink bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: white eye ring  
+wing color: brown wings  
+wing shape: medium rounded wings  
+wing feature: rusty shoulder patch  
+body color: brownish gray body  
+back color: brown back  
+back feature: dark streaks  
+breast color: white breast  
+breast feature: fine dark streaks  
+belly color: white belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: long slightly notched tail  
+tail feature: white outer edges  
+
+White-crowned Sparrow
+bill color: pinkish orange bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: black and white head  
+head feature: bold black crown stripes  
+wing color: brown wings  
+wing shape: medium rounded wings  
+wing feature: two white wing bars  
+body color: grayish body  
+back color: brown back  
+back feature: dark streaks  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A
+
+White-throated Sparrow
+bill color: pale gray bill  
+bill shape: short conical bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: white throat patch; black and white crown stripes  
+wing color: brown wings  
+wing shape: medium rounded wings  
+wing feature: two white wing bars  
+body color: brown body  
+back color: brown back  
+back feature: dark streaks  
+breast color: light gray breast  
+breast feature: N/A  
+belly color: light gray belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium rounded tail  
+tail feature: N/A  
+
+Cape Glossy Starling
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: bright yellow eyes  
+head color: iridescent blue head  
+head feature: N/A  
+wing color: iridescent blue wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: iridescent blue body  
+back color: iridescent blue back  
+back feature: N/A  
+breast color: iridescent blue breast  
+breast feature: N/A  
+belly color: iridescent blue belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: iridescent blue tail  
+tail shape: medium-length square tail  
+tail feature: N/A  
+
+Bank Swallow
+bill color: black bill  
+bill shape: short slightly hooked bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: white throat  
+wing color: brown wings  
+wing shape: long pointed wings  
+wing feature: N/A  
+body color: brown and white body  
+back color: brown back  
+back feature: N/A  
+breast color: white breast  
+breast feature: brown breast band  
+belly color: white belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short slightly notched tail  
+tail feature: N/A  
+
+Barn Swallow
+bill color: black bill  
+bill shape: short slightly hooked bill  
+eye color: dark brown eyes  
+head color: dark blue head  
+head feature: rusty forehead  
+wing color: dark blue wings  
+wing shape: long pointed wings  
+wing feature: N/A  
+body color: blue and rusty body  
+back color: dark blue back  
+back feature: N/A  
+breast color: rusty breast  
+breast feature: N/A  
+belly color: rusty belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: dark blue tail  
+tail shape: long deeply forked tail  
+tail feature: white tail spots  
+
+Cliff Swallow
+bill color: black bill  
+bill shape: short slightly hooked bill  
+eye color: dark brown eyes  
+head color: dark blue head  
+head feature: pale forehead patch  
+wing color: dark brown wings  
+wing shape: long pointed wings  
+wing feature: N/A  
+body color: dark blue and rusty body  
+back color: dark blue back  
+back feature: pale rump  
+breast color: rusty breast  
+breast feature: N/A  
+belly color: rusty belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: dark brown tail  
+tail shape: short squared tail  
+tail feature: N/A  
+
+Tree Swallow
+bill color: black bill  
+bill shape: short slightly hooked bill  
+eye color: dark brown eyes  
+head color: iridescent blue head  
+head feature: N/A  
+wing color: dark blue wings  
+wing shape: long pointed wings  
+wing feature: N/A  
+body color: dark blue and white body  
+back color: iridescent blue back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: dark blue tail  
+tail shape: slightly forked tail  
+tail feature: N/A
+
+Scarlet Tanager  
+bill color: pale gray bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: bright red head; olive-yellow head  
+head feature: N/A  
+wing color: black wings; dark gray wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: bright red body; olive-yellow body  
+back color: bright red back; olive-yellow back  
+back feature: N/A  
+breast color: bright red breast; olive-yellow breast  
+breast feature: N/A  
+belly color: bright red belly; olive-yellow belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: black tail; dark gray tail  
+tail shape: medium-length slightly notched tail  
+tail feature: N/A  
+
+Summer Tanager  
+bill color: pale yellow bill  
+bill shape: short thick bill  
+eye color: dark brown eyes  
+head color: bright red head; yellowish-orange head  
+head feature: N/A  
+wing color: bright red wings; yellowish-orange wings  
+wing shape: broad rounded wings  
+wing feature: N/A  
+body color: bright red body; yellowish-orange body  
+back color: bright red back; yellowish-orange back  
+back feature: N/A  
+breast color: bright red breast; yellowish-orange breast  
+breast feature: N/A  
+belly color: bright red belly; yellowish-orange belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: bright red tail; yellowish-orange tail  
+tail shape: medium-length slightly notched tail  
+tail feature: N/A  
+
+Arctic Tern  
+bill color: bright red bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: black cap head  
+head feature: sharp black cap contrast  
+wing color: pale gray wings  
+wing shape: long pointed wings  
+wing feature: white trailing edges  
+body color: pale gray body  
+back color: pale gray back  
+back feature: N/A  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: bright red legs  
+leg feature: short legs  
+feet color: bright red feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: long deeply forked tail  
+tail feature: N/A  
+
+Black Tern  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: black extends to throat  
+wing color: gray wings  
+wing shape: long pointed wings  
+wing feature: dark gray primary feathers  
+body color: black body; gray body  
+back color: dark gray back  
+back feature: N/A  
+breast color: black breast; gray breast  
+breast feature: N/A  
+belly color: black belly; gray belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: short legs  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: dark gray tail  
+tail shape: short slightly forked tail  
+tail feature: N/A  
+
+Caspian Tern  
+bill color: bright red bill  
+bill shape: thick slightly hooked bill  
+eye color: dark brown eyes  
+head color: black cap head  
+head feature: black cap recedes in winter  
+wing color: pale gray wings  
+wing shape: long pointed wings  
+wing feature: dark gray wingtips  
+body color: white body  
+back color: pale gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: short legs  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: short slightly forked tail  
+tail feature: N/A
+
+**Common Tern**  
+bill color: red bill with black tip  
+bill shape: medium pointed bill  
+eye color: dark brown eyes  
+head color: black cap  
+head feature: black cap extends to eyes  
+wing color: pale gray wings  
+wing shape: long pointed wings  
+wing feature: dark wingtips  
+body color: white body  
+back color: pale gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: red legs  
+leg feature: N/A  
+feet color: red feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: long forked tail  
+tail feature: outer feathers longer  
+
+**Elegant Tern**  
+bill color: bright orange bill  
+bill shape: long slender slightly curved bill  
+eye color: dark brown eyes  
+head color: black cap  
+head feature: shaggy crest on nape  
+wing color: pale gray wings  
+wing shape: long pointed wings  
+wing feature: dark wingtips  
+body color: white body  
+back color: pale gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: long deeply forked tail  
+tail feature: N/A  
+
+Forster's Tern
+bill color: orange bill with black tip  
+bill shape: medium pointed bill  
+eye color: dark brown eyes  
+head color: black cap  
+head feature: black cap extends to eyes  
+wing color: pale gray wings  
+wing shape: long pointed wings  
+wing feature: pale wingtips in summer; dark wingtips in winter  
+body color: white body  
+back color: pale gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: orange legs  
+leg feature: N/A  
+feet color: orange feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: long deeply forked tail  
+tail feature: white outer tail feathers  
+
+Least Tern 
+bill color: yellow bill with black tip  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: black cap  
+head feature: white forehead patch  
+wing color: pale gray wings  
+wing shape: long pointed wings  
+wing feature: dark wingtips  
+body color: white body  
+back color: pale gray back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: yellow legs  
+leg feature: N/A  
+feet color: yellow feet  
+feet feature: webbed feet  
+tail color: white tail  
+tail shape: short forked tail  
+tail feature: N/A  
+
+**Green-tailed Towhee**  
+bill color: gray bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: reddish crown  
+head feature: white throat patch  
+wing color: olive-green wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: olive-green body  
+back color: olive-green back  
+back feature: N/A  
+breast color: gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: olive-green tail  
+tail shape: long rounded tail  
+tail feature: slightly fanned tail
+
+**Brown Thrasher**  
+bill color: dark gray bill  
+bill shape: long slightly curved bill  
+eye color: bright yellow eyes  
+head color: reddish-brown head  
+head feature: N/A  
+wing color: reddish-brown wings  
+wing shape: broad rounded wings  
+wing feature: white wing bars  
+body color: reddish-brown body  
+back color: reddish-brown back  
+back feature: N/A  
+breast color: white breast  
+breast feature: dark brown streaks  
+belly color: white belly  
+belly feature: dark brown streaks  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: reddish-brown tail  
+tail shape: long slightly fanned tail  
+tail feature: N/A  
+
+**Sage Thrasher**  
+bill color: dark gray bill  
+bill shape: short slightly curved bill  
+eye color: pale yellow eyes  
+head color: grayish-brown head  
+head feature: faint eyebrow line  
+wing color: grayish-brown wings  
+wing shape: medium rounded wings  
+wing feature: white wing bars  
+body color: grayish-brown body  
+back color: grayish-brown back  
+back feature: N/A  
+breast color: pale gray breast  
+breast feature: dark streaks  
+belly color: pale gray belly  
+belly feature: faint streaking  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: grayish-brown tail  
+tail shape: medium slightly rounded tail  
+tail feature: white outer tail feathers  
+
+**Black-capped Vireo**  
+bill color: black bill  
+bill shape: short stout bill  
+eye color: red eyes  
+head color: black head  
+head feature: white eye-ring  
+wing color: olive-green wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: olive-green body  
+back color: olive-green back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: olive-green tail  
+tail shape: short slightly rounded tail  
+tail feature: N/A  
+
+**Blue-headed Vireo**  
+bill color: black bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: blue-gray head  
+head feature: white spectacles  
+wing color: olive-green wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: olive-green body  
+back color: olive-green back  
+back feature: N/A  
+breast color: white breast  
+breast feature: yellowish flanks  
+belly color: white belly  
+belly feature: yellowish sides  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: olive-green tail  
+tail shape: short slightly rounded tail  
+tail feature: N/A  
+
+**Philadelphia Vireo**  
+bill color: black bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: olive-gray head  
+head feature: faint eyebrow line  
+wing color: olive-green wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: olive-green body  
+back color: olive-green back  
+back feature: N/A  
+breast color: pale yellow breast  
+breast feature: N/A  
+belly color: pale yellow belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: olive-green tail  
+tail shape: short slightly rounded tail  
+tail feature: N/A  
+
+**Red-eyed Vireo**  
+bill color: gray bill  
+bill shape: short slightly curved bill  
+eye color: red eyes; dark brown eyes  
+head color: olive-green head  
+head feature: white eyebrow stripe  
+wing color: olive-green wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: olive-green body  
+back color: olive-green back  
+back feature: N/A  
+breast color: pale white breast  
+breast feature: N/A  
+belly color: pale white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: olive-green tail  
+tail shape: medium rounded tail  
+tail feature: N/A  
+
+**Warbling Vireo**  
+bill color: gray bill  
+bill shape: short slightly curved bill  
+eye color: dark brown eyes  
+head color: pale gray head  
+head feature: faint white eyebrow stripe  
+wing color: pale gray wings  
+wing shape: medium rounded wings  
+wing feature: N/A  
+body color: pale gray body  
+back color: pale gray back  
+back feature: N/A  
+breast color: pale white breast  
+breast feature: N/A  
+belly color: pale white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: pale gray tail  
+tail shape: medium rounded tail  
+tail feature: N/A  
+
+**White-eyed Vireo**  
+bill color: gray bill  
+bill shape: short slightly curved bill  
+eye color: white eyes  
+head color: olive-green head  
+head feature: yellow spectacles  
+wing color: olive-green wings  
+wing shape: medium rounded wings  
+wing feature: two white wing bars  
+body color: olive-green body  
+back color: olive-green back  
+back feature: N/A  
+breast color: pale white breast  
+breast feature: faint yellow wash  
+belly color: pale white belly  
+belly feature: faint yellow wash  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: olive-green tail  
+tail shape: medium rounded tail  
+tail feature: N/A  
+
+**Yellow-throated Vireo**  
+bill color: gray bill  
+bill shape: short slightly curved bill  
+eye color: dark brown eyes  
+head color: olive-yellow head  
+head feature: bold yellow spectacles  
+wing color: olive-green wings  
+wing shape: medium rounded wings  
+wing feature: two white wing bars  
+body color: olive-green body  
+back color: olive-green back  
+back feature: N/A  
+breast color: bright yellow breast  
+breast feature: N/A  
+belly color: pale white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: olive-green tail  
+tail shape: medium rounded tail  
+tail feature: N/A  
+
+**Bay-breasted Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: black head; pale brown head  
+head feature: pale eyebrow stripe  
+wing color: black and white wings  
+wing shape: medium rounded wings  
+wing feature: two bold white wing bars  
+body color: chestnut brown body; pale streaked body  
+back color: black streaked back; olive back  
+back feature: N/A  
+breast color: chestnut brown breast; pale streaked breast  
+breast feature: N/A  
+belly color: pale white belly  
+belly feature: faint brown wash  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: medium slightly forked tail  
+tail feature: N/A  
+
+**Black and White Warbler**  
+bill color: black bill  
+bill shape: thin slightly curved bill  
+eye color: dark brown eyes  
+head color: black and white head  
+head feature: black crown stripe  
+wing color: black and white wings  
+wing shape: short rounded wings  
+wing feature: black streaks on white  
+body color: black and white body  
+back color: black and white back  
+back feature: black streaked back  
+breast color: white breast  
+breast feature: black streaked breast  
+belly color: white belly  
+belly feature: black streaked belly  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: strong gripping feet  
+tail color: black and white tail  
+tail shape: short slightly notched tail  
+
+**Black-throated Blue Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: dark blue head; brown head  
+head feature: white spot near wing  
+wing color: dark blue and black wings; brown wings  
+wing shape: short rounded wings  
+wing feature: white wing patch  
+body color: blue and black body; brown body  
+back color: dark blue back; brown back  
+back feature: N/A  
+breast color: black breast; light brown breast  
+breast feature: solid black breast; faint streaking  
+belly color: white belly; light brown belly  
+belly feature: clean white belly  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: dark blue and black tail; brown tail  
+tail shape: medium-length slightly notched tail  
+
+**Blue-winged Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: yellow head  
+head feature: black eye stripe  
+wing color: blue-gray wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: yellow body  
+back color: olive-green back  
+back feature: N/A  
+breast color: yellow breast  
+breast feature: N/A  
+belly color: yellow belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: blue-gray tail  
+tail shape: medium-length slightly notched tail  
+
+**Canada Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: blue-gray head  
+head feature: white eye ring  
+wing color: blue-gray wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: yellow and blue-gray body  
+back color: blue-gray back  
+back feature: N/A  
+breast color: yellow breast  
+breast feature: black necklace-like streaks  
+belly color: yellow belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: blue-gray tail  
+tail shape: medium-length slightly notched tail  
+
+**Cape May Warbler**  
+bill color: black bill  
+bill shape: short slightly curved bill  
+eye color: dark brown eyes  
+head color: olive-green and chestnut head  
+head feature: chestnut cheek patch  
+wing color: black and yellow wings  
+wing shape: short rounded wings  
+wing feature: bold white wing bars  
+body color: yellow and olive-green body  
+back color: olive-green back  
+back feature: streaked back  
+breast color: yellow breast  
+breast feature: black streaked breast  
+belly color: yellow belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black and yellow tail  
+tail shape: medium-length slightly notched tail
+
+**Cerulean Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: pale blue head  
+head feature: white eyebrow stripe  
+wing color: pale blue wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: pale blue and white body  
+back color: pale blue back  
+back feature: faint black streaks  
+breast color: white breast  
+breast feature: dark blue chest band  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: pale blue tail  
+tail shape: medium-length slightly forked tail  
+tail feature: white tail edges  
+
+**Chestnut-sided Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: yellow head  
+head feature: white eyebrow stripe  
+wing color: olive green wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: white body  
+back color: olive green back  
+back feature: black streaks  
+breast color: white breast  
+breast feature: chestnut side streaks  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: gray tail  
+tail shape: medium-length slightly notched tail  
+tail feature: white outer tail feathers  
+
+**Golden-winged Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: black mask; yellow crown  
+wing color: gray wings  
+wing shape: short rounded wings  
+wing feature: yellow wing patch  
+body color: gray body  
+back color: gray back  
+back feature: N/A  
+breast color: gray breast  
+breast feature: black throat patch  
+belly color: gray belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: N/A  
+tail color: gray tail  
+tail shape: medium-length slightly forked tail  
+tail feature: white outer tail feathers  
+
+**Hooded Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: black head; yellow head (female)  
+head feature: yellow face; black hood  
+wing color: olive green wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: yellow body  
+back color: olive green back  
+back feature: N/A  
+breast color: yellow breast  
+breast feature: N/A  
+belly color: yellow belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: olive green tail  
+tail shape: medium-length rounded tail  
+tail feature: white outer tail feathers  
+
+**Kentucky Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: olive green head  
+head feature: black mask; yellow eyebrow stripe  
+wing color: olive green wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: yellow body  
+back color: olive green back  
+back feature: N/A  
+breast color: yellow breast  
+breast feature: N/A  
+belly color: yellow belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: olive green tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A
+
+**Magnolia Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: white eyering  
+wing color: black wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: yellow body  
+back color: olive green back  
+back feature: black streaks  
+breast color: yellow breast  
+breast feature: black streaks  
+belly color: yellow belly  
+belly feature: black streaks  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: medium-length slightly notched tail  
+tail feature: white tail spots  
+
+**Mourning Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: black throat patch (male)  
+wing color: olive green wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: yellow body  
+back color: olive green back  
+back feature: N/A  
+breast color: gray breast  
+breast feature: black bib (male)  
+belly color: yellow belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: olive green tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A  
+
+**Myrtle Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: white eyering  
+wing color: gray wings  
+wing shape: short rounded wings  
+wing feature: white wing bars  
+body color: gray and yellow body  
+back color: gray back  
+back feature: black streaks  
+breast color: gray breast  
+breast feature: black streaks  
+belly color: white belly  
+belly feature: yellow side patches  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: black tail  
+tail shape: medium-length slightly notched tail  
+tail feature: white outer tail patches  
+
+**Nashville Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: gray head  
+head feature: white eyering  
+wing color: olive green wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: yellow body  
+back color: olive green back  
+back feature: N/A  
+breast color: yellow breast  
+breast feature: N/A  
+belly color: yellow belly  
+belly feature: N/A  
+leg color: pink legs  
+leg feature: N/A  
+feet color: pink feet  
+feet feature: N/A  
+tail color: olive green tail  
+tail shape: medium-length slightly notched tail  
+tail feature: N/A  
+
+**Orange-crowned Warbler**  
+bill color: black bill  
+bill shape: short pointed bill  
+eye color: dark brown eyes  
+head color: olive green head  
+head feature: faint orange crown  
+wing color: olive green wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: olive green body  
+back color: olive green back  
+back feature: N/A  
+breast color: yellowish breast  
+breast feature: faint streaks  
+belly color: yellowish belly  
+belly feature: faint streaks  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: olive green tail  
+tail shape: medium-length slightly notched tail  
+tail feature: N/A  
+
+**Palm Warbler**  
+bill color: black bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: rusty cap  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: faint wing bars  
+body color: brownish yellow body  
+back color: brown back  
+back feature: faint streaks  
+breast color: yellow breast  
+breast feature: faint streaks  
+belly color: yellow belly  
+belly feature: faint streaks  
+leg color: dark brown legs  
+leg feature: N/A  
+feet color: dark brown feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium-length slightly notched tail  
+tail feature: white outer feathers  
+
+**Pine Warbler**  
+bill color: dark gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: yellow head  
+head feature: faint eyering  
+wing color: grayish brown wings  
+wing shape: short rounded wings  
+wing feature: two white wing bars  
+body color: yellow body  
+back color: olive-green back  
+back feature: N/A  
+breast color: yellow breast  
+breast feature: faint streaks  
+belly color: pale yellow belly  
+belly feature: faint streaks  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: grayish brown tail  
+tail shape: medium-length slightly notched tail  
+tail feature: white outer feathers  
+
+**Prairie Warbler**  
+bill color: dark gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: yellow head  
+head feature: black eyeline  
+wing color: olive-green wings  
+wing shape: short rounded wings  
+wing feature: two faint wing bars  
+body color: yellow body  
+back color: olive-green back  
+back feature: dark streaks  
+breast color: yellow breast  
+breast feature: black streaks  
+belly color: yellow belly  
+belly feature: black streaks  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: dark brown tail  
+tail shape: medium-length slightly notched tail  
+tail feature: white outer feathers  
+
+**Prothonotary Warbler**  
+bill color: black bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: bright yellow head  
+head feature: N/A  
+wing color: blue-gray wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: bright yellow body  
+back color: olive-green back  
+back feature: N/A  
+breast color: bright yellow breast  
+breast feature: N/A  
+belly color: bright yellow belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: blue-gray tail  
+tail shape: medium-length slightly notched tail  
+tail feature: white outer edges  
+
+**Swainson's Warbler**  
+bill color: dark gray bill  
+bill shape: long slightly curved bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: pale eyebrow stripe  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: brownish body  
+back color: brown back  
+back feature: N/A  
+breast color: pale brown breast  
+breast feature: N/A  
+belly color: pale brown belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A 
+
+**Tennessee Warbler**  
+bill color: dark gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: gray head; olive-gray head  
+head feature: pale eyebrow stripe  
+wing color: olive-gray wings  
+wing shape: short rounded wings  
+wing feature: two faint wingbars  
+body color: olive-gray body  
+back color: olive-gray back  
+back feature: N/A  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: olive-gray tail  
+tail shape: short slightly notched tail  
+tail feature: N/A  
+
+**Wilson's Warbler**  
+bill color: dark gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: bright yellow head; yellow head with black cap  
+head feature: black cap on males  
+wing color: olive-green wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: bright yellow body  
+back color: olive-green back  
+back feature: N/A  
+breast color: bright yellow breast  
+breast feature: N/A  
+belly color: bright yellow belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: olive-green tail  
+tail shape: short slightly rounded tail  
+tail feature: N/A  
+
+**Worm-eating Warbler**  
+bill color: dark gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: buffy-tan head  
+head feature: black crown stripes  
+wing color: olive-brown wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: olive-brown body  
+back color: olive-brown back  
+back feature: N/A  
+breast color: pale buffy breast  
+breast feature: N/A  
+belly color: pale buffy belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: olive-brown tail  
+tail shape: short slightly rounded tail  
+tail feature: N/A  
+
+**Yellow Warbler**  
+bill color: dark gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: bright yellow head  
+head feature: N/A  
+wing color: olive-yellow wings  
+wing shape: short rounded wings  
+wing feature: faint wingbars  
+body color: bright yellow body  
+back color: olive-yellow back  
+back feature: N/A  
+breast color: bright yellow breast  
+breast feature: reddish streaks on males  
+belly color: bright yellow belly  
+belly feature: N/A  
+leg color: dark gray legs  
+leg feature: N/A  
+feet color: dark gray feet  
+feet feature: N/A  
+tail color: bright yellow tail  
+tail shape: short slightly rounded tail  
+tail feature: N/A
+
+**Northern Waterthrush**  
+bill color: dark gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: pale eyebrow stripe  
+wing color: brown wings  
+wing shape: medium rounded wings  
+wing feature: faint wing bars  
+body color: brown body  
+back color: brown back  
+back feature: dark streaked back  
+breast color: pale yellow breast  
+breast feature: dark streaked breast  
+belly color: pale yellow belly  
+belly feature: dark streaked belly  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short slightly rounded tail  
+tail feature: N/A  
+
+**Louisiana Waterthrush**  
+bill color: dark gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: bold white eyebrow stripe  
+wing color: brown wings  
+wing shape: medium rounded wings  
+wing feature: faint wing bars  
+body color: brown body  
+back color: brown back  
+back feature: N/A  
+breast color: pale white breast  
+breast feature: sparse dark streaks  
+belly color: pale white belly  
+belly feature: sparse dark streaks  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short slightly rounded tail  
+tail feature: N/A  
+
+**Bohemian Waxwing**  
+bill color: black bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: warm brown head  
+head feature: black eye mask; pointed crest  
+wing color: gray wings  
+wing shape: medium pointed wings  
+wing feature: white and yellow markings  
+body color: grayish brown body  
+back color: grayish brown back  
+back feature: N/A  
+breast color: warm brown breast  
+breast feature: N/A  
+belly color: grayish belly  
+belly feature: rusty undertail coverts  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: gray tail  
+tail shape: short slightly squared tail  
+tail feature: yellow-tipped tail  
+
+**Cedar Waxwing**  
+bill color: black bill  
+bill shape: short stout bill  
+eye color: dark brown eyes  
+head color: warm brown head  
+head feature: black eye mask; pointed crest  
+wing color: gray wings  
+wing shape: medium pointed wings  
+wing feature: small red waxy tips  
+body color: pale brown body  
+back color: pale brown back  
+back feature: N/A  
+breast color: pale brown breast  
+breast feature: N/A  
+belly color: yellow belly  
+belly feature: N/A  
+leg color: black legs  
+leg feature: N/A  
+feet color: black feet  
+feet feature: N/A  
+tail color: gray tail  
+tail shape: short slightly squared tail  
+tail feature: yellow-tipped tail
+
+**American Three-toed Woodpecker**  
+bill color: gray bill  
+bill shape: short chisel-shaped bill  
+eye color: dark brown eyes  
+head color: black head  
+head feature: yellow crown patch (male); black-and-white striped head (female)  
+wing color: black wings  
+wing shape: broad rounded wings  
+wing feature: white barring  
+body color: black-and-white body  
+back color: black back  
+back feature: white barring  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: zygodactyl feet  
+tail color: black tail  
+tail shape: short pointed tail  
+tail feature: white outer feathers  
+
+**Pileated Woodpecker**  
+bill color: gray bill  
+bill shape: long chisel-shaped bill  
+eye color: yellow eyes  
+head color: black head  
+head feature: red crest; black mustache stripe (male); red mustache stripe (female)  
+wing color: black wings  
+wing shape: broad rounded wings  
+wing feature: white underwings  
+body color: black body  
+back color: black back  
+back feature: N/A  
+breast color: black breast  
+breast feature: white stripe along neck  
+belly color: black belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: zygodactyl feet  
+tail color: black tail  
+tail shape: long pointed tail  
+tail feature: N/A  
+
+**Red-bellied Woodpecker**  
+bill color: gray bill  
+bill shape: medium chisel-shaped bill  
+eye color: dark brown eyes  
+head color: red head (male); gray head with red nape (female)  
+head feature: red crown stripe (male); red nape stripe (female)  
+wing color: black-and-white wings  
+wing shape: broad rounded wings  
+wing feature: barred pattern  
+body color: pale body  
+back color: black-and-white back  
+back feature: zebra-like barring  
+breast color: pale breast  
+breast feature: faint reddish wash  
+belly color: pale belly  
+belly feature: faint red wash  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: zygodactyl feet  
+tail color: black-and-white tail  
+tail shape: medium-length pointed tail  
+tail feature: white outer tail feathers  
+
+**Red-cockaded Woodpecker**  
+bill color: gray bill  
+bill shape: short chisel-shaped bill  
+eye color: dark brown eyes  
+head color: black-and-white head  
+head feature: small red patch behind eye (male); black-and-white striped head (female)  
+wing color: black wings  
+wing shape: broad rounded wings  
+wing feature: white spots  
+body color: black-and-white body  
+back color: black back  
+back feature: white spots  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: zygodactyl feet  
+tail color: black tail  
+tail shape: medium-length pointed tail  
+tail feature: white outer tail feathers 
+
+**Red-headed Woodpecker**  
+bill color: gray bill  
+bill shape: medium straight bill  
+eye color: dark brown eyes  
+head color: bright red head  
+head feature: N/A  
+wing color: black and white wings  
+wing shape: broad rounded wings  
+wing feature: large white patches  
+body color: black and white body  
+back color: black back  
+back feature: N/A  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: zygodactyl feet  
+tail color: black tail  
+tail shape: medium-length rounded tail  
+tail feature: N/A  
+
+**Downy Woodpecker**  
+bill color: gray-black bill  
+bill shape: short straight bill  
+eye color: dark brown eyes  
+head color: black and white head  
+head feature: red nape patch (male)  
+wing color: black wings  
+wing shape: short rounded wings  
+wing feature: white spots on wings  
+body color: black and white body  
+back color: black back  
+back feature: white central stripe  
+breast color: white breast  
+breast feature: N/A  
+belly color: white belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: zygodactyl feet  
+tail color: black and white tail  
+tail shape: short pointed tail  
+tail feature: white outer tail feathers  
+
+**Bewick's Wren**  
+bill color: dark gray bill  
+bill shape: thin slightly curved bill  
+eye color: dark brown eyes  
+head color: brown-gray head  
+head feature: white eyebrow stripe  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: faint barring  
+body color: brown-gray body  
+back color: brown-gray back  
+back feature: N/A  
+breast color: pale gray breast  
+breast feature: N/A  
+belly color: pale gray belly  
+belly feature: N/A  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: strong gripping toes  
+tail color: brown tail  
+tail shape: long slightly fanned tail  
+tail feature: white edges with dark barring  
+
+**Cactus Wren**  
+bill color: dark gray bill  
+bill shape: long slightly curved bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: bold white eyebrow stripe  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: white spotting  
+body color: brown body  
+back color: brown back  
+back feature: white speckling  
+breast color: white breast  
+breast feature: dark brown spots  
+belly color: white belly  
+belly feature: dark brown spots  
+leg color: gray legs  
+leg feature: N/A  
+feet color: gray feet  
+feet feature: strong gripping toes  
+tail color: brown tail  
+tail shape: long slightly rounded tail  
+tail feature: white-tipped outer feathers
+
+**Carolina Wren**  
+bill color: dark gray bill  
+bill shape: long slightly curved bill  
+eye color: dark brown eyes  
+head color: reddish-brown head  
+head feature: white eyebrow stripe  
+wing color: reddish-brown wings  
+wing shape: short rounded wings  
+wing feature: black barred wings  
+body color: reddish-brown body  
+back color: reddish-brown back  
+back feature: faint barring  
+breast color: pale buff breast  
+breast feature: N/A  
+belly color: pale buff belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: reddish-brown tail  
+tail shape: long slightly rounded tail  
+tail feature: black barring  
+
+**House Wren**  
+bill color: dark gray bill  
+bill shape: short slightly curved bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: faint eyebrow stripe  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: black barred wings  
+body color: brown body  
+back color: brown back  
+back feature: faint barring  
+breast color: grayish-brown breast  
+breast feature: faint streaking  
+belly color: grayish-brown belly  
+belly feature: N/A  
+leg color: pale pinkish legs  
+leg feature: N/A  
+feet color: pale pinkish feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: medium slightly rounded tail  
+tail feature: black barring  
+
+**Marsh Wren**  
+bill color: yellowish-gray bill  
+bill shape: short slightly curved bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: white eyebrow stripe  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: black barring  
+body color: brown body  
+back color: dark brown back  
+back feature: white streaks  
+breast color: pale buff breast  
+breast feature: N/A  
+belly color: pale buff belly  
+belly feature: N/A  
+leg color: orange-brown legs  
+leg feature: N/A  
+feet color: orange-brown feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short slightly rounded tail  
+tail feature: black barring  
+
+**Rock Wren**  
+bill color: dark gray bill  
+bill shape: long slightly curved bill  
+eye color: dark brown eyes  
+head color: grayish-brown head  
+head feature: pale eyebrow stripe  
+wing color: grayish-brown wings  
+wing shape: short rounded wings  
+wing feature: fine barring  
+body color: grayish-brown body  
+back color: grayish-brown back  
+back feature: faint streaking  
+breast color: pale buff breast  
+breast feature: faint streaking  
+belly color: pale buff belly  
+belly feature: N/A  
+leg color: grayish legs  
+leg feature: N/A  
+feet color: grayish feet  
+feet feature: N/A  
+tail color: brownish-gray tail  
+tail shape: medium slightly rounded tail  
+tail feature: black and white barring
+
+Winter Wren  
+bill color: dark gray bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: brown head  
+head feature: pale eyebrow stripe  
+wing color: brown wings  
+wing shape: short rounded wings  
+wing feature: dark barring  
+body color: brown body  
+back color: brown back  
+back feature: dark barring  
+breast color: brown breast  
+breast feature: faint streaking  
+belly color: brown belly  
+belly feature: faint streaking  
+leg color: pinkish brown legs  
+leg feature: N/A  
+feet color: pinkish brown feet  
+feet feature: N/A  
+tail color: brown tail  
+tail shape: short cocked tail  
+tail feature: dark barring  
+
+Common Yellowthroat  
+bill color: black bill  
+bill shape: short thin bill  
+eye color: dark brown eyes  
+head color: black mask; brown head  
+head feature: bright yellow throat; white eyebrow border  
+wing color: olive wings  
+wing shape: short rounded wings  
+wing feature: N/A  
+body color: olive body  
+back color: olive back  
+back feature: N/A  
+breast color: bright yellow breast; pale yellow breast  
+breast feature: N/A  
+belly color: pale yellow belly; white belly  
+belly feature: N/A  
+leg color: pinkish legs  
+leg feature: N/A  
+feet color: pinkish feet  
+feet feature: N/A  
+tail color: olive tail  
+tail shape: medium rounded tail  
+tail feature: N/A  
