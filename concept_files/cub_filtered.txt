@@ -1,25 +1,15 @@
-barred pattern
-bicolored bill
 black V-shaped band on breast
 black and chestnut body
 black and rufous body
 black and white back
-black and white barred pattern
 black and white barred tail
-black and white barring
 black and white body
-black and white breast
 black and white crown stripes
 black and white head
 black and white stripes
 black and white tail
-black and white wings
-black and yellow tail
-black and yellow wings
 black back
-black band across chest
 black barred wings
-black barring
 black barring on tail
 black belly
 black bib
@@ -41,59 +31,33 @@ black eye stripe
 black eye-stripe
 black eyeline
 black feet
-black flight feathers
 black forehead
 black head
 black hood
 black horn-like tufts
 black legs
 black line from bill to eye
-black mask
 black mustache stripe
-black mustache stripe (male)
 black necklace
-black necklace-like streaks
-black rump with white edges
 black spot below eyes
-black spot on bill
 black spotted belly
 black spotted breast
-black streaked back
 black streaked belly
 black streaked breast
-black streaks
-black streaks on white
 black tail
 black tail edge
-black tail with chestnut edges
-black tail with elongated central feathers
-black tail with orange edges
-black tail with yellow edges
-black throat
-black throat patch
-black throat patch (male)
-black upper bill
-black webbed feet
 black wings
-black wingtips
 black wingtips with white spots
-black-and-white back
 black-and-white body
-black-and-white head
-black-and-white striped head (female)
-black-and-white tail
-black-and-white wings
+black-and-white striped head
 blue and black body
 blue and gray body
 blue and rusty body
 blue and white body
 blue back
-blue bill
 blue body
 blue crown
-blue head
 blue sheen on the head
-blue speculum patch
 blue tail
 blue throat
 blue wings
@@ -104,33 +68,21 @@ blue-gray breast band
 blue-gray head
 blue-gray tail
 blue-gray wings
-bold black border
 bold black crown stripes
 bold brown stripes
-bold color contrast
 bold dark eye stripe
-bold dark streaks
 bold white eyebrow
 bold white eyebrow stripe
 bold white spots underneath tail
-bold white wing bars
 bold yellow spectacles
-bright blue back
 bright blue crown
 bright blue eyes
 bright blue head
-bright blue tail
-bright blue wings
-bright green and black head
 bright green and yellow body
-bright green back
-bright green tail
-bright green wings
 bright orange belly
 bright orange bill
 bright orange body
 bright orange breast
-bright orange head
 bright red back
 bright red belly
 bright red bill
@@ -144,20 +96,15 @@ bright red head
 bright red legs
 bright red tail
 bright red wings
-bright rose breast
 bright yellow belly
 bright yellow body
 bright yellow breast
 bright yellow eyes
 bright yellow head
-bright yellow tail
 bright yellow throat
-broad flat bill
 broad long wings
 broad pointed wings
 broad rounded wings
-brown and blue wings
-brown and gray back
 brown and gray body
 brown and rufous body
 brown and white body
@@ -166,64 +113,35 @@ brown belly
 brown body
 brown breast
 brown breast band
-brown crown
+brown gray body
 brown head
-brown streaked back
 brown streaked body
-brown streaked tail
-brown streaks
 brown tail
-brown tail with white tips
 brown upper body
 brown wings
+brown yellow body
 brown-gray back
 brown-gray body
 brown-gray head
-brownish back
-brownish body
-brownish gray back
-brownish gray body
-brownish gray head
-brownish gray wings
-brownish pink feet
-brownish pink legs
-brownish wings
-brownish yellow body
-brownish-gray back
-brownish-gray body
-brownish-gray head
-brownish-gray tail
-brownish-gray wings
-brownish-yellow head
-buff belly
+brown-gray tail
 buff body
 buff breast
 buff nape
 buff tail tips
-buff wing spots
-buffy breast
-buffy-tan head
-central buff wash
 central dark crown stripe
-central dark spot
 chestnut belly
 chestnut body
 chestnut breast
 chestnut brown body
 chestnut brown breast
 chestnut cheek patch
-chestnut side streaks
 clean white belly
 cryptic patterned back
 curled black feathers on tail
 curled forehead crest
-dark barring
-dark blue and black tail
-dark blue and black wings
 dark blue and rusty body
 dark blue and white body
 dark blue back
-dark blue chest band
 dark blue head
 dark blue tail
 dark blue wings
@@ -232,14 +150,9 @@ dark brown back
 dark brown belly
 dark brown body
 dark brown breast
-dark brown cap
 dark brown eyes
-dark brown feet
 dark brown head
-dark brown legs
 dark brown nape
-dark brown spots
-dark brown streaks
 dark brown tail
 dark brown wings
 dark central tail feathers
@@ -248,7 +161,6 @@ dark crown
 dark crown stripes
 dark eye patch
 dark eye spot
-dark forked tail
 dark gray back
 dark gray belly
 dark gray bill
@@ -258,69 +170,37 @@ dark gray feet
 dark gray head
 dark gray head in juvenile
 dark gray legs
-dark gray primary feathers
 dark gray tail
-dark gray vest
 dark gray wings
-dark gray wingtips
 dark green and white body
 dark green back
-dark green belly
 dark green body
-dark green breast
 dark green head
 dark green tail
 dark green wings
 dark mask around eyes
-dark outer edges
 dark red eyes
 dark streaked back
 dark streaked belly
 dark streaked breast
-dark streaking on sides
-dark streaks
 dark streaks on back
-dark upper bill
 dark wingtips
-dark wingtips in winter
 deep blue back
 deep blue belly
 deep blue body
 deep blue breast
-deep blue head
-deep blue tail
-deep blue wings
-downward curve bill
-dull orange back
-dull yellow belly
 dull yellow body
-dull yellow breast
-faint barring
-faint black streaks
-faint brown wash
 faint eye ring
 faint eye-ring
 faint eyebrow line
 faint eyebrow stripe
 faint eyering
-faint fine streaks
 faint orange crown
-faint pale wing bars
-faint red wash
-faint reddish wash
 faint streak on breast
-faint streaking
 faint streaks
 faint white eyebrow stripe
 faint wing bars
-faint wingbars
-faint yellow wash
-fine barring
-fine black streaks
 fine dark streaks
-fine streaking
-fine streaks
-fine wavy pattern
 fleshy eye ornament
 frequent tail bobbing
 glossy black back
@@ -340,81 +220,45 @@ gray belly
 gray bill
 gray body
 gray breast
-gray crown
+gray brown back
+gray brown body
+gray brown head
+gray brown wings
 gray eyebrow stripe
 gray feet
 gray head
-gray head with red nape (female)
 gray legs
 gray tail
 gray wings
-gray-black bill
-grayish belly
-grayish bill
-grayish body
-grayish breast
-grayish brown back
-grayish brown body
-grayish brown head
-grayish brown tail
-grayish brown wings
-grayish conical bill
-grayish feet
-grayish legs
-grayish wings
-grayish-black bill
-grayish-brown back
-grayish-brown belly
-grayish-brown body
-grayish-brown breast
-grayish-brown head
-grayish-brown tail
-grayish-brown wings
-grayish-olive back
-grayish-olive body
-grayish-olive head
-grayish-olive tail
-grayish-olive wings
-grayish-orange head
-grayish-silver bill
+gray-brown back
+gray-brown body
+gray-brown head
+gray-brown tail
+gray-brown wings
+gray-olive body
 green back
 green belly
 green body
 green breast
 green head
-green head ruby throat
 green tail
-green tail with blue tips
 green wings
-greenish body
-greenish-brown body
-greenish-brown head
+green-brown body
 grooves on the bill
-heavy dark streaks
-heavy reddish streaks on breast
+heavy red streaks on breast
 hooked seabird bill
-humming wing motion visible
 iridescent blue back
 iridescent blue band on tail
-iridescent blue belly
 iridescent blue body
-iridescent blue breast
 iridescent blue head
-iridescent blue tail
-iridescent blue wings
 iridescent crown
-iridescent green feathers
-iridescent green head
 iridescent green sheen
 iridescent orange feathers on tail
-iridescent pink head
 iridescent ruby throat patch
 iridescent sheen on head
 iridescent throat
-large conical bill
 large fan-shaped crest
 large thick curved bill
-large triangular bill
 large white patches
 light brown back
 light brown belly
@@ -422,29 +266,21 @@ light brown body
 light brown breast
 light brown head
 light brown tail
-light brown wingbars
 light brown wings
 light gray back
 light gray belly
 light gray body
 light gray breast
 light gray head
-light gray tail
 light gray wings
 lobed feet
 long broad wings
 long central streamers on tail
-long central tail streamers
-long chisel-shaped bill
-long curved bill
 long deeply forked tail
-long flat bill
 long forked tail
 long graduated tail
 long hooked bill
-long keel-shaped tail
 long narrow wings
-long needle thin bill
 long notched tail
 long pointed bill
 long pointed tail
@@ -452,117 +288,68 @@ long pointed wings
 long rounded tail
 long rounded wings
 long slender bill
-long slender slightly curved bill
 long slightly curved bill
 long slightly fanned tail
 long slightly forked tail
 long slightly notched tail
 long slightly rounded tail
-long stiff tail
 long straight bill
 long strong legs
-long tail
 long thick bill
 long thick pointed bill
-long thin pointed bill
-long thin serrated bill
-long thin slightly curved bill
 long wedge-shaped tail
-medium chisel-shaped bill
-medium length wedge shaped tail
 medium pointed bill
 medium pointed wings
 medium rounded tail
 medium rounded wings
-medium slightly forked tail
-medium slightly hooked bill
 medium slightly notched tail
 medium slightly rounded tail
 medium squared tail
-medium straight bill
-medium thick bill
-medium thick slightly curved bill
-medium-length fanned tail
 medium-length notched tail
 medium-length pointed tail
 medium-length rounded tail
 medium-length slightly forked tail
 medium-length slightly notched tail
-medium-length slightly rounded tail
 medium-length square tail
 medium-length squared tail
-metallic green back
 mottled brown and black body
 mottled brown and gray back
 mottled brown back
-mottled brown belly
 mottled brown body
 mottled brown breast
 mottled brown head
-mottled brown tail
-mottled brown wings
 mottled gray streaks in winter
 multicolored body
 olive back
 olive body
-olive brown back
 olive brown body
-olive brown head
 olive green back
 olive green body
 olive green head
 olive green tail
 olive green wings
-olive tail
-olive wings
 olive-brown back
 olive-brown body
-olive-brown head
 olive-brown tail
 olive-brown wings
-olive-gray back
 olive-gray body
 olive-gray head
-olive-gray tail
-olive-gray wings
-olive-green and chestnut head
 olive-green back
 olive-green body
 olive-green head
 olive-green tail
 olive-green wings
 olive-yellow back
-olive-yellow belly
 olive-yellow body
-olive-yellow breast
 olive-yellow head
-olive-yellow wings
-orange and yellow bill
 orange bill
-orange bill with black tip
 orange crown stripe with black borders
 orange feet
 orange legs
-orange lower bill
-orange patches
 orange patches on tail
-orange webbed feet
-orange-brown feet
-orange-brown legs
 orange-buff head
-orange-edged bill
-orange-red bill
-outer feathers longer
-pale belly
 pale blue and white body
-pale blue back
-pale blue head
-pale blue tail
-pale blue wings
-pale blue-gray feet
-pale blue-gray legs
 pale body
-pale breast
 pale brown back
 pale brown belly
 pale brown body
@@ -570,10 +357,7 @@ pale brown breast
 pale brown head
 pale buff belly
 pale buff breast
-pale buffy belly
-pale buffy breast
 pale central crown stripe
-pale cream belly
 pale eye-ring
 pale eyebrow stripe
 pale forehead patch
@@ -585,116 +369,62 @@ pale gray breast
 pale gray feet
 pale gray head
 pale gray legs
-pale gray tail
 pale gray wings
-pale grayish brown head
 pale ivory bill
 pale orange breast
-pale orange lower bill
 pale pink bill
 pale pink feet
 pale pink legs
-pale pinkish bill
-pale pinkish feet
-pale pinkish legs
-pale rump
-pale streaked belly
 pale streaked body
 pale streaked breast
 pale supercilium
 pale throat
-pale underside
 pale white belly
 pale white breast
 pale wing bars
-pale wing edges
-pale wingtips in summer
 pale yellow belly
 pale yellow bill
 pale yellow breast
 pale yellow eyes
-peach wash on sides
 peaked crown
 pink bill
 pink feet
 pink legs
-pinkish bill
-pinkish brown feet
-pinkish brown legs
-pinkish feet
-pinkish legs
-pinkish orange bill
-pinkish-brown belly
-pinkish-brown body
-pinkish-brown breast
+pink-brown body
 plain belly
 pointed crest
-prominent chestnut wingbars
 prominent crest
 raised tufted crest
-red back
 red belly
-red bill
-red bill with black tip
 red body
 red breast
 red crest
-red crown stripe (male)
+red crown stripe
 red eyes
-red feet
 red head
-red head (male)
-red legs
-red mustache stripe (female)
+red mustache stripe
 red nape patch
-red nape patch (male)
-red nape stripe (female)
-red shoulder patch
-red tail
-red throat pouch
-reddish crown
-reddish streaks  on belly
-reddish streaks on males
-reddish-brown back
-reddish-brown body
-reddish-brown head
-reddish-brown tail
-reddish-brown wings
+red nape stripe
+red streaks  on belly
+red-brown back
+red-brown body
+red-brown head
+red-brown tail
+red-brown wings
 rosy red body
-rosy red breast
-rosy red head
 rounded wings
 ruff around neck
-rufous back
-rufous belly
 rufous body
-rufous breast
-rufous head
-rufous outer edges
-rufous tail
-rufous tail with black tips
 rusty belly
 rusty breast
-rusty breast (male)
-rusty breast band (female)
-rusty breast band (male)
-rusty brown breast
-rusty brown head
 rusty cap
 rusty forehead
-rusty red crown
-rusty shoulder patch
 rusty undertail coverts
-rusty undertail patch
-set far back
-set far back on body
 shaggy crest
 shaggy crest on nape
 shaggy throat feathers
 sharp black cap contrast
-sharp claws
 short chisel-shaped bill
-short cocked tail
 short conical bill
 short forked tail
 short hooked bill
@@ -706,102 +436,64 @@ short pointed tail
 short pointed wings
 short rounded tail
 short rounded wings
-short slender bill
-short slightly broad bill
 short slightly curved bill
 short slightly forked tail
 short slightly hooked bill
 short slightly notched tail
 short slightly rounded tail
 short slightly squared tail
-short slightly upturned tail
-short square tail
 short squared tail
 short stout bill
 short straight bill
 short strong bill
-short stubby tail
 short tail
 short thick bill
 short thick conical bill
-short thick curved bill
-short thick hooked bill
 short thin bill
-short wedge-shaped tail
 short wide bill
-silver lower bill
-slender downcurved bill
 slight crest
 slightly fanned tail
-slightly forked tail
-slightly hooked seabird bill
-slightly notched tail
 slightly spiky tail
 small crest
 small horn at bill base
-small red patch behind eye (male)
-small red waxy tips
-small weak feet
+small red patch behind eye
 small white throat patch
 smooth rounded head
 solid black breast
-sparse dark streaks
 speckled breast
-speckled brown belly
-speckled brown breast
 spiky crest
-straight sharp bill
 streaked back
 streaked belly
 streaked breast
-streaked gray head
-strong climbing feet
 strong gripping feet
 strong gripping toes
 subtle blue tinge on head
-subtle streaking
 thick conical bill
-thick curved bill
-thick deep bill
 thick hooked bill
 thick slightly hooked bill
-thick straight bill
 thin buff eye-ring
-thin curved bill
 thin pale tail edges
-thin serrated bill
 thin slightly curved bill
 thin white tail edges
 twisted tail feathers
-two bold white wing bars
-two faint wing bars
-two faint wingbars
 two pale wing bars
 two white wing bars
 vibrant blue body
-vibrant blue head
 violet-blue ear patch
 warm brown back
-warm brown belly
 warm brown body
 warm brown breast
 warm brown head
-warm brown tail
 warm brown wings
-webbed feet
-white and yellow markings
 white back
 white band near tail tip
-white barring
 white belly
 white body
 white breast
-white central stripe
 white cheek patch
 white cheeks and throat
 white collar
 white curved eye streak
-white edges with dark barring
 white eye ring
 white eye-ring
 white eyebrow border
@@ -812,12 +504,9 @@ white face
 white facial plumes
 white facial speckles
 white facial whiskers
-white flank patches
-white flash on primaries
 white forehead patch
 white head
 white head in adult
-white horizontal band
 white lower back
 white nape
 white nape patch
@@ -828,24 +517,14 @@ white outer tail edges
 white outer tail feathers
 white outer tail patches
 white patch behind eye
-white patch on wings
-white patches
 white speckled back
-white speckling
 white spectacles
 white spot near wing
-white spots
 white spots on flight feathers
 white spots on tail
 white spots on underside tail
-white spots on wings
-white spotted band (female)
 white spotted belly
 white spotted breast
-white spotted wingtips
-white spotting
-white streaks
-white stripe along neck
 white tail
 white tail band
 white tail edges
@@ -855,70 +534,34 @@ white tail tips
 white throat
 white throat patch
 white tips on outer tail feathers
-white trailing edges
-white underwings
 white wing bars
 white wing patch
 white wing patches
 white wing spots
-white wing stripe
 white wings
-white wingtips
-white-edged flight feathers
-white-tipped outer feathers
-white-tipped primary feathers
 white-tipped tail
 winter gray streaks
-yellow and black head
 yellow and blue-gray body
 yellow and olive body
 yellow and olive-green body
-yellow back
 yellow belly
 yellow bill
-yellow bill with black tip
 yellow body
 yellow breast
 yellow crown
-yellow crown patch (male)
+yellow crown patch
 yellow eyebrow stripe
 yellow eyes
 yellow face
 yellow feet
 yellow head
-yellow head (female)
-yellow head with black cap
 yellow legs
-yellow lower bill
-yellow patches
 yellow patches on tail
-yellow side patches
 yellow spectacles
 yellow tail tips
-yellow wing patch
-yellow wing stripe
-yellow-green back
 yellow-green belly
 yellow-green body
 yellow-green breast
-yellow-green head
-yellow-tipped gray bill
+yellow-orange body
 yellow-tipped tail
-yellowish belly
-yellowish bill
-yellowish body
-yellowish breast
-yellowish eyebrow stripe
-yellowish flanks
-yellowish head
-yellowish sides
-yellowish-gray bill
-yellowish-orange back
-yellowish-orange belly
-yellowish-orange body
-yellowish-orange breast
-yellowish-orange head
-yellowish-orange tail
-yellowish-orange wings
-zebra-like barring
 zygodactyl feet
