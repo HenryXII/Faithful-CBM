@@ -32,7 +32,7 @@
   pip install -r requirements.txt
 ```
 
-2. (optional) Install Grounding DINO for generating annotations on custom datasets
+2. Install Grounding DINO for generating annotations on custom datasets
 
 ```
 git clone https://github.com/IDEA-Research/GroundingDINO

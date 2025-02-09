@@ -10,3 +10,4 @@ pytorchcv
 opencv-python
 scikit-learn
 torcheval
+pytorch-grad-cam
