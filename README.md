@@ -26,6 +26,24 @@ wget https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alp
 cd ..
 ```
 
+3. Download CUB dataset with `bash download_cub.sh`
+
 ## Running the models
 
+1. Generate concepts annotated dataset with:
+```
+python -m scripts.generate_annotations --dataset cub_train --device cuda --batch_size 16 --text_threshold 0.25 --output_dir annotations
+
+python -m scripts.generate_annotations --dataset cub_val --device cuda --batch_size 16 --text_threshold 0.25 --output_dir annotations
+```
+2. Train a concept bottleneck model using the config files in ./configs. For instance, to train a CUB model, run the following command:
+```
+python train_cbm.py --config configs/cub.json --annotation_dir annotations
+```
+3. Evaluate accuracy under different number Number of Effective Concepts (NEC):
+```
+python sparse_evaluation.py --load_path <path-to-model-dir> --lam <lambda-value>
+```
+4. Evaluate and visualize faithfulness with GroundingDINO and GradCAM++
+Run the last section "Experiment" in the notebook `spatial_gradcam.ipynb`
 
